@@ -1,0 +1,3173 @@
+Name: Spiramycin II
+Synon: Spiramycin II
+Precursor_type: [M+2H]2+
+Spectrum_type: MS2
+PrecursorMZ: 443.2695598775
+RT: 8.75
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C45H76N2O15
+MW: 885
+Exactmass: 884.524569755
+SMILES: COC1C(CC(=O)OC(C)CC=CC=CC(OC2CCC(C(C)O2)N(C)C)C(C)CC(CC=O)C1OC1OC(C)C(OC2CC(C)(O)C(O)C(C)O2)C(C1O)N(C)C)OC(C)=O
+Num Peaks: 5
+83.0499 87
+101.0604 77
+174.11279 100
+443.2699 1.5
+582.32819 34
+
+Name: Spiramycin III
+Synon: Spiramycin III
+Precursor_type: [M+2H]2+
+Spectrum_type: MS2
+PrecursorMZ: 450.27738491
+RT: 9.31
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C46H78N2O15
+MW: 899
+Exactmass: 898.54021982
+SMILES: CCC(=O)OC1CC(=O)OC(C)CC=CC=CC(OC2CCC(C(C)O2)N(C)C)C(C)CC(CC=O)C(OC2OC(C)C(OC3CC(C)(O)C(O)C(C)O3)C(C2O)N(C)C)C1OC
+Num Peaks: 5
+83.04989 81
+101.0604 67
+174.11276 100
+450.27781 22
+596.34381 39
+
+Name: Tinidazole
+Synon: Tinidazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 248.069955
+RT: 4.9
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C8H13N3O4S
+MW: 247
+Exactmass: 247.06268
+SMILES: CCS(=O)(=O)CCN1C(C)=NC=C1[N+]([O-])=O
+Num Peaks: 5
+82.05253 35
+121.03174 47
+128.04581 11.5
+202.07393 66
+248.07012 100
+
+Name: Benznidazole
+Synon: Benznidazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 261.098115
+RT: 9.22
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C12H12N4O3
+MW: 260
+Exactmass: 260.09084
+SMILES: C1=CC=C(C=C1)CNC(=O)CN2C=CN=C2[N+](=O)[O-]
+Num Peaks: 5
+91.05484 33
+107.04951 55
+118.04158 88
+146.03622 34
+261.09818 100
+
+Name: 8-Hydroxyquinoline
+Synon: 8-Hydroxyquinoline
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 146.060035
+RT: 7.87
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C9H7NO
+MW: 145
+Exactmass: 145.05276
+SMILES: C1=CC2=C(C(=C1)O)N=CC=C2
+Num Peaks: 4
+91.05499 39
+118.06556 87
+146.06024 100
+158.04984 56
+
+Name: Pterin-sulfadiazine
+Synon: Pterin-sulfadiazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 426.109135
+RT: 6.05
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H15N9O3S
+MW: 425
+Exactmass: 425.10186
+SMILES: C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)NCC3=CN=C4C(=N3)C(=O)NC(=N4)N
+Num Peaks: 5
+176.05639 97
+267.09819 67
+283.0932 100
+349.07063 60
+426.1095 27
+
+Name: PtO-sulfadiazine
+Synon: PtO-sulfadiazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 427.093145
+RT: 6.05
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H14N8O4S
+MW: 426
+Exactmass: 426.08587
+SMILES: O=S(NC1=NC=CC=N1)(C2=CC=C(C=C2)NCC3=NC4=C(NC(NC4=O)=O)N=C3)=O
+Num Peaks: 5
+195.05164 48
+268.0831 23
+284.07761 37
+350.05563 100
+427.09354 29.8
+
+Name: AcOH-sulfadiazine
+Synon: AcOH-sulfadiazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 309.065205
+RT: 5.28
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C12H12N4O4S
+MW: 308
+Exactmass: 308.05793
+SMILES: O=S(NC1=NC=CC=N1)(C2=CC=C(C=C2)NCC(O)=O)=O
+Num Peaks: 4
+120.04491 97
+166.05023 57
+214.01707 61
+309.06532 100
+
+Name: N4-formylsulfadiazine
+Synon: N4-formylsulfadiazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 279.054635
+RT: 4.26
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C11H10N4O3S
+MW: 278
+Exactmass: 278.04736
+SMILES: C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)NC=O
+Num Peaks: 4
+65.0393 100
+120.04458 23.5
+184.00606 28.9
+279.05491 15.6
+
+Name: 5'-Hydroxysulfadiazine
+Synon: 5'-Hydroxysulfadiazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 267.054635
+RT: 2.23
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C10H10N4O3S
+MW: 266
+Exactmass: 266.04736
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=C(C=N2)O
+Num Peaks: 5
+65.0395 43
+92.05029 48
+108.04493 92
+156.01155 91
+267.05476 100
+
+Name: Pterin-sulfamethoxazole
+Synon: Pterin-sulfamethoxazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 429.108795
+RT: 7.77
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H16N8O4S
+MW: 428
+Exactmass: 428.10152
+SMILES: CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)NCC3=CN=C4C(=N3)C(=O)NC(=N4)N
+Num Peaks: 5
+176.05656 100
+267.09836 57
+283.09308 67
+349.07074 65
+429.10928 11
+
+Name: PtO-sulfamethoxazole
+Synon: PtO-sulfamethoxazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 430.092815
+RT: 7.77
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H15N7O5S
+MW: 429
+Exactmass: 429.08554
+SMILES: CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)NCC3=CN=C4C(=N3)C(=O)NC(=O)N4
+Num Peaks: 5
+195.05153 46
+268.08286 40
+284.07767 42
+350.0553 100
+430.09329 1.5
+
+Name: AcOH-sulfamethoxazole
+Synon: AcOH-sulfamethoxazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 312.064865
+RT: 7.64
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C12H13N3O5S
+MW: 311
+Exactmass: 311.05759
+SMILES: CC1=CC(NS(=O)(C2=CC=C(C=C2)NCC(O)=O)=O)=NO1
+Num Peaks: 4
+120.04481 100
+166.04997 48
+214.01691 45
+312.06492 98
+
+Name: N4-formylsulfamethoxazole
+Synon: N4-formylsulfamethoxazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 282.054305
+RT: 7.65
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C11H11N3O4S
+MW: 281
+Exactmass: 281.04703
+SMILES: CC1=CC(NS(=O)(C2=CC=C(C=C2)NC=O)=O)=NO1
+Num Peaks: 4
+65.03951 30
+120.04503 4.5
+184.00607 1.7
+282.05442 100
+
+Name: Pterin-sulfapyridine
+Synon: Pterin-sulfapyridine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 425.113885
+RT: 6.61
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C18H16N8O3S
+MW: 424
+Exactmass: 424.10661
+SMILES: C1=CC=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)NCC3=CN=C4C(=N3)C(=O)NC(=N4)N
+Num Peaks: 5
+176.05675 14
+267.09879 2.4
+283.09305 5.1
+349.07077 8.8
+425.11441 100
+
+Name: PtO-sulfapyridine
+Synon: PtO-sulfapyridine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 426.097895
+RT: 6.59
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C18H15N7O4S
+MW: 425
+Exactmass: 425.09062
+SMILES: O=S(NC1=NC=CC=C1)(C2=CC=C(C=C2)NCC3=NC4=C(NC(NC4=O)=O)N=C3)=O
+Num Peaks: 5
+195.05144 58
+268.0831 23
+284.0776 28
+350.05528 100
+426.09809 62
+
+Name: AcOH-sulfapyridine
+Synon: AcOH-sulfapyridine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 308.069955
+RT: 6.12
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H13N3O4S
+MW: 307
+Exactmass: 307.06268
+SMILES: O=S(C(C=C1)=CC=C1NCC(O)=O)(NC2=CC=CC=N2)=O
+Num Peaks: 4
+120.04483 58
+166.05005 39
+214.01694 20
+308.07007 100
+
+Name: N4-formylsulfapyridine
+Synon: N4-formylsulfapyridine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 278.059385
+RT: 5.27
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C12H11N3O3S
+MW: 277
+Exactmass: 277.05211
+SMILES: O=S(C(C=C1)=CC=C1NC=O)(NC2=CC=CC=N2)=O
+Num Peaks: 4
+65.03947 1.8
+120.04496 1.4
+184.00662 1.2
+278.0596 100
+
+Name: 5'-Hydroxysulfapyridine
+Synon: 5'-Hydroxysulfapyridine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 266.059385
+RT: 4.67
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C11H11N3O3S
+MW: 265
+Exactmass: 265.05211
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)NC2=NC=C(C=C2)O
+Num Peaks: 5
+65.03943 23
+92.05018 21
+108.04484 47
+156.01136 43
+266.0595 100
+
+Name: N-acetyl-5'-hydroxysulphapyridine
+Synon: N-acetyl-5'-hydroxysulphapyridine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 308.069955
+RT: 6.41
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H13N3O4S
+MW: 307
+Exactmass: 307.06268
+SMILES: CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=NC=C(C=C2)O
+Num Peaks: 5
+65.03951 27
+110.04792 65
+134.0603 23
+198.02217 26
+308.07007 100
+
+Name: AcOH-sulfamethazine
+Synon: AcOH-sulfamethazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 337.096505
+RT: 7.14
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C14H16N4O4S
+MW: 336
+Exactmass: 336.08923
+SMILES: O=S(C1=CC=C(NCC(O)=O)C=C1)(NC2=NC(C)=CC(C)=N2)=O
+Num Peaks: 4
+120.04474 100
+166.05008 24
+214.01693 28
+337.09643 37
+
+Name: O-demethyl Trimethoprim
+Synon: O-demethyl Trimethoprim
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 277.129515
+RT: 4.57
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H16N4O3
+MW: 276
+Exactmass: 276.12224
+SMILES: COC1=CC(=CC(=C1OC)O)CC2=CN=C(N=C2N)N
+Num Peaks: 3
+123.06701 34
+261.09842 60
+277.12977 100
+
+Name: Phosphorylated AZM
+Synon: Phosphorylated AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 829.482135
+RT: 9.25
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H73N2O15P
+MW: 828
+Exactmass: 828.47486
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(CN(C)C(C(C(C)(C(O2)CC)O)O)C)C)O)OP(O)(O)=O)CC(O1)C
+Num Peaks: 6
+98.09707 61
+158.11768 14
+238.08405 1.5
+434.31155 1.5
+671.38867 100
+829.48257 2.5
+
+Name: Decladinose phosphorylated AZM
+Synon: Decladinose phosphorylated AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 671.387835
+RT: 6.03
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H59N2O12P
+MW: 670
+Exactmass: 670.38056
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(CN(C)C(C(C(C)(C(O2)CC)O)O)C)C)O)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09695 84
+158.11743 17
+238.08353 12
+434.31088 18
+671.38832 100
+
+Name: Hydrolyzed AZM
+Synon: Hydrolyzed AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 767.526365
+RT: 7.88
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H74N2O13
+MW: 767
+Exactmass: 766.51909
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(CN(C)C(C(C(C)(C(O)CC)O)O)C)C)O)O)CC(O1)C
+Num Peaks: 4
+83.04977 100
+158.11759 22
+609.43042 17
+767.52675 38
+
+Name: Hydroxy AZM
+Synon: Hydroxy AZM
+Precursor_type: [M+2H]2+
+Spectrum_type: MS2
+PrecursorMZ: 383.25927
+RT: 8.09
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H72N2O13
+MW: 765
+Exactmass: 764.50344
+SMILES: CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)CO)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)C)O)(C)O
+Num Peaks: 5
+83.04971 100
+158.1174 12
+383.25886 0.8
+450.30612 1.5
+607.4162 21
+
+Name: AZM N-oxide
+Synon: AZM N-oxide
+Precursor_type: [M+2H]2+
+Spectrum_type: MS2
+PrecursorMZ: 383.25927
+RT: 9.41
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H72N2O13
+MW: 765
+Exactmass: 764.50344
+SMILES: CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)[N+](C)(C)[O-])O)(C)O)C)C)C)O)(C)O
+Num Peaks: 5
+83.04974 100
+304.21176 77
+383.25901 7.8
+434.31137 7
+546.3634 19
+
+Name: N'-demethyl AZM
+Synon: N'-demethyl AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 735.500155
+RT: 8.82
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H70N2O12
+MW: 734
+Exactmass: 734.49288
+SMILES: CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)NC)O)(C)O)C)C)C)O)(C)O
+Num Peaks: 5
+83.04977 100
+144.10195 11
+434.31086 5
+434.31086 44
+735.50073 21
+
+Name: Decladinose AZM
+Synon: Decladinose AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 591.421505
+RT: 5.99
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H58N2O9
+MW: 590
+Exactmass: 590.41423
+SMILES: CCC1C(C(C(N(CC(CC(C(C(C(C(C(=O)O1)C)O)C)OC2C(C(CC(O2)C)N(C)C)O)(C)O)C)C)C)O)(C)O
+Num Peaks: 5
+72.08183 48
+98.09701 23
+116.10746 28
+158.11781 19
+591.42201 100
+
+Name: N'-demethyl decladinose AZM
+Synon: N'-demethyl decladinose AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 577.405855
+RT: 5.81
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H56N2O9
+MW: 576
+Exactmass: 576.39858
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(CN(C)C(C(C(C)(C(O2)CC)O)O)C)C)O)O)CC(O1)C
+Num Peaks: 4
+84.08141 17
+144.10197 16
+434.31122 22
+577.40603 100
+
+Name: Hydrolyzed dedesosamine AZM
+Synon: Hydrolyzed dedesosamine AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 610.416085
+RT: 9.32
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H59NO11
+MW: 609
+Exactmass: 609.40881
+SMILES: OC(C(C(C(C(O)=O)C)OC1CC(C)(C(C(O1)C)O)OC)C)C(C)(CC(CN(C)C(C(C(C)(C(O)CC)O)O)C)C)O
+Num Peaks: 3
+83.04991 100
+452.32211 17
+610.41669 69
+
+Name: Hydrolyzed dehydro dedesosamine AZM
+Synon: Hydrolyzed dehydro dedesosamine AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 608.400435
+RT: 9.49
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H57NO11
+MW: 607
+Exactmass: 607.39316
+SMILES: OC(C(C(C(C(O)=O)C)OC1CC(C)(C(C(O1)C)O)OC)C)C(C)(CC(CN(C)C(C(C(C)(C(CC)=O)O)O)C)C)O
+Num Peaks: 3
+83.04974 100
+450.30584 37
+608.40102 58
+
+Name: Hydrolyzed N-demethyl dedesosamine AZM
+Synon: Hydrolyzed N-demethyl dedesosamine AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 596.400435
+RT: 9.31
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C28H57NO11
+MW: 595
+Exactmass: 595.39316
+SMILES: OC(C(C(C(C(O)=O)C)OC1CC(C)(C(C(O1)C)O)OC)C)C(C)(CC(CNC(C(C(C)(C(O)CC)O)O)C)C)O
+Num Peaks: 3
+83.04972 100
+438.30573 17
+596.40087 68
+
+Name: Dedesosamine AZM
+Synon: Dedesosamine AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 592.405525
+RT: 10.61
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H57NO10
+MW: 591
+Exactmass: 591.39825
+SMILES: OC(C(C(C(C1=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(CN(C)C(C(C(C)(C(O1)CC)O)O)C)C)O
+Num Peaks: 3
+83.04977 100
+434.31108 24
+592.40607 75
+
+Name: Dehydro dedesosamine AZM
+Synon: Dehydro dedesosamine AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 590.389875
+RT: 10.44
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H55NO10
+MW: 589
+Exactmass: 589.3826
+SMILES: OC(C(C(C(C1=O)C)OC2CC(C)(C(C(O2)C)=O)OC)C)C(C)(CC(CN(C)C(C(C(C)(C(O1)CC)O)O)C)C)O
+Num Peaks: 4
+69.07088 23
+117.05496 20
+434.3115 14
+590.39052 100
+
+Name: N-demethyl dedesosamine AZM
+Synon: N-demethyl dedesosamine AZM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 578.389875
+RT: 10.71
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H55NO10
+MW: 577
+Exactmass: 577.3826
+SMILES: OC(C(C(C(C1=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(CNC(C(C(C)(C(O1)CC)O)O)C)C)O
+Num Peaks: 3
+83.0498 100
+420.29564 67
+578.39046 40
+
+Name: Hydrolyzed AZM aglycone
+Synon: Hydrolyzed AZM aglycone
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 452.321795
+RT: 6.24
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C22H45NO8
+MW: 451
+Exactmass: 451.31452
+SMILES: OC(C(C(C(C(O)=O)C)O)C)C(C)(CC(CN(C)C(C(C(C)(C(O)CC)O)O)C)C)O
+Num Peaks: 3
+123.11716 1.3
+318.22797 0.5
+452.32232 100
+
+Name: AZM aglycone
+Synon: AZM aglycone
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 434.311225
+RT: 7.6
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C22H43NO7
+MW: 433
+Exactmass: 433.30395
+SMILES: OC(C(C(C(C1=O)C)O)C)C(C)(CC(CN(C)C(C(C(C)(C(O1)CC)O)O)C)C)O
+Num Peaks: 3
+123.11726 1.4
+300.21672 2.5
+434.31159 100
+
+Name: N-demethyl AZM aglycone
+Synon: N-demethyl AZM aglycone
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 420.295575
+RT: 7.92
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C21H41NO7
+MW: 419
+Exactmass: 419.2883
+SMILES: OC(C(C(C(C1=O)C)O)C)C(C)(CC(CNC(C(C(C)(C(O1)CC)O)O)C)C)O
+Num Peaks: 3
+123.11707 5.6
+286.2002 1.4
+420.29553 100
+
+Name: AZM-TP392-6.18
+Synon: AZM-TP392-6.18
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 392.264275
+RT: 6.18
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C19H37NO7
+MW: 391
+Exactmass: 391.257
+SMILES: O=C(C(C(O)=O)C)C(C)(CC(CN(C)C(C(C(C)(C(O)CC)O)O)C)C)O
+Num Peaks: 3
+214.14378 34
+232.15428 100
+392.2641 79
+
+Name: AZM-TP390-6.68
+Synon: AZM-TP390-6.68
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 390.248625
+RT: 6.68
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C19H35NO7
+MW: 389
+Exactmass: 389.24135
+SMILES: O=C(C(C(O)=O)C)C(C)(CC(CN(C)C(C(C(C)(C(CC)=O)O)O)C)C)O
+Num Peaks: 4
+159.10149 100
+214.14362 14
+232.15421 78
+390.2484 34
+
+Name: AZM-TP376-5.96
+Synon: AZM-TP376-5.96
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 376.269365
+RT: 5.96
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C19H37NO6
+MW: 375
+Exactmass: 375.26209
+SMILES: OC(C(C(O)=O)C)/C(C)=C/C(CN(C)C(C(C(C)(C(O)CC)O)O)C)C
+Num Peaks: 3
+198.14907 22.5
+216.15962 27
+376.26955 100
+
+Name: AZM-TP374-6.51
+Synon: AZM-TP374-6.51
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 374.253715
+RT: 6.51
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C19H35NO6
+MW: 373
+Exactmass: 373.24644
+SMILES: OC(C(C(O)=O)C)/C(C)=C/C(CN(C)C(C(C(C)(C(CC)=O)O)O)C)C
+Num Peaks: 4
+159.10172 7
+198.14911 3.4
+216.15966 27
+374.25392 100
+
+Name: AZM-TP372-6.92
+Synon: AZM-TP372-6.92
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 372.238065
+RT: 6.92
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C19H33NO6
+MW: 371
+Exactmass: 371.23079
+SMILES: O=C(C(C(O)=O)C)/C(C)=C/C(CN(C)C(C(C(C)(C(CC)=O)O)O)C)C
+Num Peaks: 4
+159.10161 23
+214.14371 92
+270.16993 17
+372.23799 100
+
+Name: AZM-TP356-7.03
+Synon: AZM-TP356-7.03
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 356.243145
+RT: 7.03
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C19H33NO5
+MW: 355
+Exactmass: 355.23587
+SMILES: CCC(C(C)(C(C(N(CC(/C=C(/C=C(C(O)=O)\C)C)C)C)C)O)O)=O
+Num Peaks: 4
+159.10142 35
+198.14856 84
+254.17443 17
+356.24334 100
+
+Name: CTM 9,12-hemiketal
+Synon: CTM 9,12-hemiketal
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 748.484165
+RT: 12.02
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H69NO13
+MW: 747
+Exactmass: 747.47689
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C4(OC(C(O2)CC)(C(C4C)O)C)O)C)OC)O)CC(O1)C
+Num Peaks: 4
+83.04979 67
+158.11755 100
+590.39157 16
+748.48436 1
+
+Name: Decladinose CTM
+Synon: Decladinose CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 590.389875
+RT: 9.73
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H55NO10
+MW: 589
+Exactmass: 589.3826
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 4
+72.08184 27
+116.10746 14
+158.11777 100
+590.3904 10.1
+
+Name: N-demethyl decladinose CTM
+Synon: N-demethyl decladinose CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 576.374225
+RT: 9.69
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H53NO10
+MW: 575
+Exactmass: 575.36695
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 2
+144.10199 100
+576.37483 1.5
+
+Name: CTM N-oxide
+Synon: CTM N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 764.479085
+RT: 11.82
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H69NO14
+MW: 763
+Exactmass: 763.47181
+SMILES: CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)[N+](C)(C)[O-])O)(C)OC)C)C)O)(C)O
+Num Peaks: 4
+123.08075 100
+174.1127 8.8
+606.385 77
+764.47917 18
+
+Name: Decladinose CTM N-oxide
+Synon: Decladinose CTM N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 606.384785
+RT: 10.07
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H55NO11
+MW: 605
+Exactmass: 605.37751
+SMILES: C[N+]([O-])(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 4
+72.08177 27
+116.10735 19
+158.11767 100
+606.38452 1.5
+
+Name: Phosphorylated CTM
+Synon: Phosphorylated CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 828.450495
+RT: 12.01
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H70NO16P
+MW: 827
+Exactmass: 827.44322
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)OC)OP(O)(O)=O)CC(O1)C
+Num Peaks: 6
+98.09699 100
+122.98463 22
+238.08397 37
+602.30981 69
+670.35529 0.5
+828.45059 0.3
+
+Name: N-demethyl phosphorylated CTM
+Synon: N-demethyl phosphorylated CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 814.434845
+RT: 12.02
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H68NO16P
+MW: 813
+Exactmass: 813.42757
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)OC)OP(O)(O)=O)CC(O1)C
+Num Peaks: 6
+84.0813 100
+126.0915 55
+224.06791 60
+588.29261 57
+656.33951 1.5
+814.43482 0.5
+
+Name: CTM-TP748-10.21
+Synon: CTM-TP748-10.21
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 748.484165
+RT: 10.21
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H69NO13
+MW: 747
+Exactmass: 747.47689
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(/C(C)=C/C(C)(C(O)CC)O)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+83.04971 64
+158.1174 100
+482.31072 7
+558.36412 6
+748.48437 0.5
+
+Name: N-demethyl CTM-TP748-10.21
+Synon: N-demethyl CTM-TP748-10.21
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 734.468515
+RT: 10.19
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H67NO13
+MW: 733
+Exactmass: 733.46124
+SMILES: CNC(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(/C(C)=C/C(C)(C(O)CC)O)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+83.0496 84
+144.10205 100
+468.29629 2.5
+576.3686 1.4
+734.46894 0.5
+
+Name: Decladinose CTM-TP748-10.21
+Synon: Decladinose CTM-TP748-10.21
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 590.389875
+RT: 8.37
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H55NO10
+MW: 589
+Exactmass: 589.3826
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)O)C)C(C)(CC(C(/C(C)=C/C(C)(C(O)CC)O)=O)C)OC)O)CC(O1)C
+Num Peaks: 4
+72.0818 27
+123.08079 19
+482.31094 14
+590.39042 1.5
+
+Name: Hydrolyzed CTM
+Synon: Hydrolyzed CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 766.494735
+RT: 10.22
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H71NO14
+MW: 765
+Exactmass: 765.48746
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O)CC)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+83.04986 67
+158.11771 100
+482.31195 14
+608.38806 1.1
+766.49591 0.5
+
+Name: Didehydro hydrolyzed CTM
+Synon: Didehydro hydrolyzed CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 762.463435
+RT: 11.8
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H67NO14
+MW: 761
+Exactmass: 761.45616
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(CC)=O)O)=O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+83.04974 55
+158.11744 100
+482.3102 1.5
+572.34197 4.7
+762.46334 1.7
+
+Name: Decladinose didehydro hydrolyzed CTM
+Synon: Decladinose didehydro hydrolyzed CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 604.369135
+RT: 9.38
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H53NO11
+MW: 603
+Exactmass: 603.36186
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(CC)=O)O)=O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+72.08165 37
+116.07082 27
+158.11748 100
+482.3096 15.7
+604.36939 7.8
+
+Name: Hydrolyzed 14-hydroxyclarithromycin
+Synon: Hydrolyzed 14-hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 782.489645
+RT: 9.96
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H71NO15
+MW: 781
+Exactmass: 781.48237
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O)C(O)C)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+83.0497 65
+158.11739 100
+482.31141 16
+574.35782 9
+782.49008 0.5
+
+Name: Hydrolyzed CTM N-oxide
+Synon: Hydrolyzed CTM N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 782.489645
+RT: 10.41
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H71NO15
+MW: 781
+Exactmass: 781.48237
+SMILES: C[N+]([O-])(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O)CC)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 6
+123.08077 100
+174.11272 11
+498.30602 8
+530.33278 18
+688.42699 19
+782.48994 1.1
+
+Name: N-demethyl Hydrolyzed CTM
+Synon: N-demethyl Hydrolyzed CTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 752.479085
+RT: 10.21
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H69NO14
+MW: 751
+Exactmass: 751.47181
+SMILES: CNC(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O)CC)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+89.0603 62
+144.10187 100
+468.29485 2.5
+604.48877 1.4
+752.4796 0.5
+
+Name: 14-Hydroxyclarithromycin
+Synon: 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 764.479085
+RT: 10.19
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H69NO14
+MW: 763
+Exactmass: 763.47181
+SMILES: CC1CC(C(C(O1)OC2C(C(C(C(=O)OC(C(C(C(C(=O)C(CC2(C)OC)C)C)O)(C)O)C(C)O)C)OC3CC(C(C(O3)C)O)(C)OC)C)O)N(C)C
+Num Peaks: 5
+83.0499 63
+158.11771 100
+574.35919 3
+606.38617 4
+764.47929 1
+
+Name: Phosphorylated 14-Hydroxyclarithromycin
+Synon: Phosphorylated 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 844.445565
+RT: 10.56
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H70NO17P
+MW: 843
+Exactmass: 843.43829
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)OC)OP(O)(O)=O)CC(O1)C
+Num Peaks: 6
+98.09704 100
+238.08401 35
+256.09448 24
+618.3045 45
+682.35315 4
+844.44557 0.2
+
+Name: 14-Hydroxyclarithromycin N-oxide
+Synon: 14-Hydroxyclarithromycin N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 780.473995
+RT: 10.51
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H69NO15
+MW: 779
+Exactmass: 779.46672
+SMILES: C[N+]([O-])(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 3
+123.08076 100
+622.37906 98
+780.47492 20
+
+Name: N-demethyl 14-Hydroxyclarithromycin
+Synon: N-demethyl 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 750.463435
+RT: 10.18
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H67NO14
+MW: 749
+Exactmass: 749.45616
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 4
+83.04976 57
+144.10188 100
+592.36921 1.4
+750.46361 1.3
+
+Name: O-demethyl 14-Hydroxyclarithromycin
+Synon: O-demethyl 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 750.463435
+RT: 10.03
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H67NO14
+MW: 749
+Exactmass: 749.45616
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)O)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+83.0498 57
+158.11759 100
+574.35925 16
+606.38435 2
+750.46361 1.3
+
+Name: Decladinose 14-Hydroxyclarithromycin
+Synon: Decladinose 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 606.384785
+RT: 8.2
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C30H55NO11
+MW: 605
+Exactmass: 605.37751
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 5
+72.08177 38
+116.10735 24
+158.11768 100
+574.35913 3
+606.3854 1.3
+
+Name: N-demethyl decladinose 14-Hydroxyclarithromycin
+Synon: N-demethyl decladinose 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 592.369135
+RT: 8.07
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H53NO11
+MW: 591
+Exactmass: 591.36186
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 3
+84.08136 18
+144.10196 100
+592.36978 1.4
+
+Name: Dehydro 14-Hydroxyclarithromycin
+Synon: Dehydro 14-Hydroxyclarithromycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 762.463435
+RT: 10.19
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H67NO14
+MW: 761
+Exactmass: 761.45616
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)=O)C)=O)C)OC)O)CC(O1)C
+Num Peaks: 4
+83.0497 65
+158.11739 100
+604.36848 0.5
+762.46348 0.5
+
+Name: Phosphorylated ETM
+Synon: Phosphorylated ETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 814.434845
+RT: 10.84
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H68NO16P
+MW: 813
+Exactmass: 813.42757
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)O)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09692 100
+238.08352 84
+620.31906 55
+638.32947 44
+814.43507 0.5
+
+Name: Hydrolyzed ETM 6,9-hemiketal
+Synon: Hydrolyzed ETM 6,9-hemiketal
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 752.479085
+RT: 10.77
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H69NO14
+MW: 751
+Exactmass: 751.47181
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)[C@]3(C)O[C@](C(C(C(C)(C(O)CC)O)O)C)([C@H](C3)C)O)O)CC(O1)C
+Num Peaks: 5
+83.04968 57
+89.06033 72
+158.11739 100
+576.37388 13
+752.47917 0.5
+
+Name: Hydroxy ETM
+Synon: Hydroxy ETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 750.463435
+RT: 9.3
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H67NO14
+MW: 749
+Exactmass: 749.45616
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C(C(C)(C(O2)C(O)C)O)O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 4
+83.04985 94
+158.11766 100
+592.36982 18
+750.46368 0.5
+
+Name: ETM N-oxide
+Synon: ETM N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 750.463435
+RT: 12.58
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H67NO14
+MW: 749
+Exactmass: 749.45616
+SMILES: CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)[N+](C)(C)[O-])O)(C)O)C)C)O)(C)O
+Num Peaks: 4
+123.0807 100
+174.11274 6
+592.36904 38
+750.46382 25
+
+Name: Dehydro ETM
+Synon: Dehydro ETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 732.452865
+RT: 12.99
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO13
+MW: 731
+Exactmass: 731.44559
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)=O)OC)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)O)O)CC(O1)C
+Num Peaks: 4
+72.08174 39
+158.11755 100
+576.37471 1.5
+732.45324 1.5
+
+Name: Decladinose hydroxy ETM
+Synon: Decladinose hydroxy ETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 592.369135
+RT: 7.84
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H53NO11
+MW: 591
+Exactmass: 591.36186
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)C(O)C)O)O)C)=O)C)O)O)CC(O1)C
+Num Peaks: 4
+72.08179 38
+98.09709 29
+158.11774 100
+592.36978 13
+
+Name: Decladinose ETM
+Synon: Decladinose ETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 576.374225
+RT: 9.0
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H53NO10
+MW: 575
+Exactmass: 575.36695
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)O)O)CC(O1)C
+Num Peaks: 4
+72.08181 39
+98.09712 27
+158.11775 100
+576.37428 16
+
+Name: N-demethyl decladinose ETM
+Synon: N-demethyl decladinose ETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 562.358575
+RT: 8.9
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C28H51NO10
+MW: 561
+Exactmass: 561.3513
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(C(C(C(C(C)(C(O2)CC)O)O)C)=O)C)O)O)CC(O1)C
+Num Peaks: 2
+144.10197 100
+562.35944 3.5
+
+Name: ETM E
+Synon: ETM E
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 748.44778
+RT: 10.77
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO14
+MW: 747
+Exactmass: 747.440505
+SMILES: CCC1C(C(C(C(=O)C(CC(C(C(C2C(COC3(O2)CC(C(C(O3)C)O)(C)OC)C(=O)O1)C)OC4C(C(CC(O4)C)N(C)C)O)(C)O)C)C)O)(C)O
+Num Peaks: 5
+72.08177 35.7
+158.11758 100
+480.29579 15
+574.35921 18
+748.44783 1.5
+
+Name: ETM B  
+Synon: ETM B  
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 718.473605
+RT: 12.81
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H67NO12
+MW: 717
+Exactmass: 717.46633
+SMILES: CCC1C(C(C(C(=O)C(CC(C(C(C(C(C(=O)O1)C)OC2CC(C(C(O2)C)O)(C)OC)C)OC3C(C(CC(O3)C)N(C)C)O)(C)O)C)C)O)C
+Num Peaks: 4
+83.0498 67
+158.11758 100
+560.38 15
+718.47433 3.1
+
+Name: Phosphorylated AETM
+Synon: Phosphorylated AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 796.424285
+RT: 11.83
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H66NO15P
+MW: 795
+Exactmass: 795.41701
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(OC(C(O2)CC)(C5O)C)(C(C4)C)C5C)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09676 100
+238.08336 31
+620.31879 28
+638.3321 1.5
+796.42452 0.2
+
+Name: AETM N-oxide
+Synon: AETM N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 732.452865
+RT: 11.3
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO13
+MW: 731
+Exactmass: 731.44559
+SMILES: C[N+]([O-])(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(OC(C(O2)CC)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+123.08068 100
+174.11264 1.5
+556.34783 35
+574.35861 65
+732.45321 13
+
+Name: Hydroxy AETM
+Synon: Hydroxy AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 732.452865
+RT: 10.27
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO13
+MW: 731
+Exactmass: 731.44559
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(OC(C(O2)C(O)C)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+83.04987 88
+158.11768 100
+538.33813 17
+556.34788 14
+732.45319 0.8
+
+Name: O-demethyl hydroxy AETM
+Synon: O-demethyl hydroxy AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 718.437215
+RT: 10.1
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO13
+MW: 717
+Exactmass: 717.42994
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)O)C)C4(C)OC(OC(C(O2)C(O)C)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+83.04973 38
+144.10187 100
+524.32167 36
+560.34243 15
+718.43755 5.6
+
+Name: N-demethyl hydroxy AETM
+Synon: N-demethyl hydroxy AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 718.437215
+RT: 10.35
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO13
+MW: 717
+Exactmass: 717.42994
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(OC(C(O2)C(O)C)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+83.04969 63
+158.11739 100
+556.34796 14
+574.35815 20
+718.43766 4.5
+
+Name: Dehydro AETM
+Synon: Dehydro AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 714.442305
+RT: 11.88
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H63NO12
+MW: 713
+Exactmass: 713.43503
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)=O)OC)C)C4(C)OC(OC(C(O2)CC)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+123.08097 39
+158.11786 100
+464.30164 21
+522.34375 21
+714.44293 1.5
+
+Name: O-demethyl AETM
+Synon: O-demethyl AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 702.442305
+RT: 10.99
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO12
+MW: 701
+Exactmass: 701.43503
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)O)C)C4(C)OC(OC(C(O2)CC)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 6
+72.08175 41
+116.10736 28
+158.11768 100
+522.34326 17
+558.36348 16
+702.4426 1.4
+
+Name: N-demethyl AETM
+Synon: N-demethyl AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 702.442305
+RT: 11.14
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO12
+MW: 701
+Exactmass: 701.43503
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(OC(C(O2)CC)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+83.04979 57
+144.10195 100
+508.3271 27
+526.33771 5.3
+702.4426 1
+
+Name: N-demethyl O-demethyl AETM
+Synon: N-demethyl O-demethyl AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 688.426635
+RT: 11.0
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C35H61NO12
+MW: 687
+Exactmass: 687.41936
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)O)C)C4(C)OC(OC(C(O2)CC)(C5O)C)(C(C4)C)C5C)O)CC(O1)C
+Num Peaks: 5
+123.08073 29
+144.10197 100
+508.32705 19
+526.33766 8.9
+688.42694 3.5
+
+Name: Decladinose AETM
+Synon: Decladinose AETM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 558.364165
+RT: 10.13
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H51NO9
+MW: 557
+Exactmass: 557.35689
+SMILES: CN(C)C(C(C1OC(C(C(C(C)C2=O)O)C)C3(C)OC(OC(C(O2)CC)(C4O)C)(C(C3)C)C4C)O)CC(O1)C
+Num Peaks: 5
+72.08176 43
+116.10728 29
+158.11758 100
+522.34307 8
+558.36416 3
+
+Name: Pseudoerythromycin A enol ether
+Synon: Pseudoerythromycin A enol ether
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 716.457955
+RT: 11.49
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO12
+MW: 715
+Exactmass: 715.45068
+SMILES: CCC(C(C)(C1C(C2=C(CC(O2)(C(C(C(C(C(=O)O1)C)OC3CC(C(C(O3)C)O)(C)OC)C)OC4C(C(CC(O4)C)N(C)C)O)C)C)C)O)O
+Num Peaks: 4
+83.04979 82
+158.11755 100
+558.36379 27
+716.45825 1
+
+Name: Phosphorylated EAEE
+Synon: Phosphorylated EAEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 796.424285
+RT: 12.03
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H66NO15P
+MW: 795
+Exactmass: 795.41701
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C(C(C)(C(O2)CC)O)O)C)=C(C4)C)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09684 100
+238.08339 37
+602.30819 27
+620.31883 30
+796.42452 0.5
+
+Name: Hydroxy EAEE
+Synon: Hydroxy EAEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 732.452865
+RT: 10.92
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO13
+MW: 731
+Exactmass: 731.44559
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C(C(C)(C(O2)C(O)C)O)O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 4
+83.04977 100
+158.1175 58
+574.35864 38
+732.45322 1.5
+
+Name: N-demethyl hydroxy EAEE
+Synon: N-demethyl hydroxy EAEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 718.437215
+RT: 10.91
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO13
+MW: 717
+Exactmass: 717.42994
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C(C(C)(C(O2)C(O)C)O)O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 4
+83.04974 82
+144.10189 100
+560.3432 17
+718.43769 4.5
+
+Name: O-demethyl EAEE
+Synon: O-demethyl EAEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 702.442305
+RT: 11.52
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO12
+MW: 701
+Exactmass: 701.43503
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)O)C)C4(C)OC(C(C(C(C)(C(O2)CC)O)O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 4
+83.04986 40
+158.1176 100
+558.36224 20
+702.4426 1.5
+
+Name: N-demethyl EAEE
+Synon: N-demethyl EAEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 702.442305
+RT: 11.79
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H63NO12
+MW: 701
+Exactmass: 701.43503
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C(C(C)(C(O2)CC)O)O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 4
+83.04985 83
+144.10209 100
+544.34801 5.4
+702.44262 1.5
+
+Name: Decladinsoe EAEE
+Synon: Decladinsoe EAEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 558.364165
+RT: 10.77
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H51NO9
+MW: 557
+Exactmass: 557.35689
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C3(C)OC(C(C(C(C)(C(O2)CC)O)O)C)=C(C3)C)O)CC(O1)C
+Num Peaks: 4
+72.08172 38
+116.07085 18
+158.11752 100
+558.364 13
+
+Name: Hydrolyzed ETMC 6,9-hemiketal
+Synon: Hydrolyzed ETMC 6,9-hemiketal
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 778.458345
+RT: 11.41
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H67NO15
+MW: 777
+Exactmass: 777.45107
+SMILES: CN(C)C(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C3(C)OC(C(C3)C)(O)C(C4OC(OC(C(O)CC)4C)=O)C)O)CC(O1)C
+Num Peaks: 5
+83.04989 48
+158.1177 100
+602.35423 24
+620.36483 3.3
+778.45872 1.5
+
+Name: N-demethyl hydrolyzed ETMC 6,9-hemiketal
+Synon: N-demethyl hydrolyzed ETMC 6,9-hemiketal
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 764.442695
+RT: 11.43
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H65NO15
+MW: 763
+Exactmass: 763.43542
+SMILES: CNC(C(C1OC(C(C(C(C(O)=O)C)OC2CC(C)(C(C(O2)C)O)OC)C)C3(C)OC(C(C3)C)(O)C(C4OC(OC(C(O)CC)4C)=O)C)O)CC(O1)C
+Num Peaks: 5
+83.04988 34
+144.10201 100
+588.33832 5.5
+606.34912 0.5
+764.44318 0.5
+
+Name: N-demethyl ETMC
+Synon: N-demethyl ETMC
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 746.432135
+RT: 11.43
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H63NO14
+MW: 745
+Exactmass: 745.42486
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(C(C(C4OC(OC(C(O2)CC)4C)=O)C)=O)C)O)O)CC(O1)C
+Num Peaks: 4
+83.04989 40
+158.1177 100
+602.35423 11
+746.43279 1.5
+
+Name: ETMC 6,9-hemiketal
+Synon: ETMC 6,9-hemiketal
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 760.447785
+RT: 12.31
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H65NO14
+MW: 759
+Exactmass: 759.44051
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C4)C)(O)C(C5OC(OC(C(O2)CC)5C)=O)C)O)CC(O1)C
+Num Peaks: 4
+83.04984 42
+144.10205 100
+588.3382 18
+760.44825 1.5
+
+Name: N-demethyl ETMC 6,9-hemiketal
+Synon: N-demethyl ETMC 6,9-hemiketal
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 746.432135
+RT: 12.3
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H63NO14
+MW: 745
+Exactmass: 745.42486
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C4)C)(O)C(C5OC(OC(C(O2)CC)5C)=O)C)O)CC(O1)C
+Num Peaks: 5
+83.04968 27
+144.10207 100
+588.3385 7.6
+606.34912 0.9
+746.4325 1.5
+
+Name: ETM cyclocarbonate Enol Ether
+Synon: ETM cyclocarbonate Enol Ether
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 742.437215
+RT: 12.31
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H63NO13
+MW: 741
+Exactmass: 741.42994
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C5OC(OC(C(O2)CC)5C)=O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 4
+83.04965 100
+158.1173 38
+584.34196 34
+742.43793 1.5
+
+Name: Phosphorylated ECEE
+Synon: Phosphorylated ECEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 822.403545
+RT: 12.76
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C38H64NO16P
+MW: 821
+Exactmass: 821.39627
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C5OC(OC(C(O2)CC)5C)=O)C)=C(C4)C)OP(O)(O)=O)CC(O1)C
+Num Peaks: 4
+98.09697 100
+238.08394 25
+664.30988 28
+822.40396 0.2
+
+Name: N-demethyl ECEE
+Synon: N-demethyl ECEE
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 728.421565
+RT: 12.27
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C37H61NO13
+MW: 727
+Exactmass: 727.41429
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C4(C)OC(C(C5OC(OC(C(O2)CC)5C)=O)C)=C(C4)C)O)CC(O1)C
+Num Peaks: 5
+83.04983 100
+144.10209 82
+480.27823 37
+570.32694 2.5
+728.42235 2.5
+
+Name: Phosphorylated RTM
+Synon: Phosphorylated RTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 917.498175
+RT: 12.05
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C41H77N2O18P
+MW: 916
+Exactmass: 916.4909
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCOC)C)O)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09684 98
+238.08337 84
+602.30807 15
+620.31866 24
+917.49835 1.5
+
+Name: Decladinose phosphorylated RTM
+Synon: Decladinose phosphorylated RTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 759.403885
+RT: 10.73
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C33H63N2O15P
+MW: 758
+Exactmass: 758.39661
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCOC)C)O)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09682 100
+238.08327 44
+602.30721 11
+620.31848 31
+759.40429 1.4
+
+Name: RTM N-oxide
+Synon: RTM N-oxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 853.526755
+RT: 12.04
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C41H76N2O16
+MW: 853
+Exactmass: 852.51948
+SMILES: C[N+](C)([O-])C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCOC)C)O)O)CC(O1)C
+Num Peaks: 4
+83.04984 22
+174.11229 3
+695.43262 100
+853.52682 0.2
+
+Name: O-demethyl RTM
+Synon: O-demethyl RTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 823.516195
+RT: 11.05
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C40H74N2O15
+MW: 823
+Exactmass: 822.50892
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCO)C)O)O)CC(O1)C
+Num Peaks: 5
+83.04974 100
+158.11746 97
+508.31716 1.4
+665.41792 34
+823.51638 17
+
+Name: O'-demethyl RTM
+Synon: O'-demethyl RTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 823.516195
+RT: 11.56
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C40H74N2O15
+MW: 823
+Exactmass: 822.50892
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCOC)C)O)O)CC(O1)C
+Num Peaks: 5
+72.08172 45
+158.11758 100
+522.33123 1.4
+679.43804 34
+823.51644 1.1
+
+Name: O-demethyl decladinose RTM
+Synon: O-demethyl decladinose RTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 665.421895
+RT: 9.79
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C32H60N2O12
+MW: 664
+Exactmass: 664.41462
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCO)C)O)O)CC(O1)C
+Num Peaks: 5
+72.08179 48
+116.10738 44
+158.11755 100
+508.31024 1.7
+665.422 18
+
+Name: N-demethyl decladinose RTM
+Synon: N-demethyl decladinose RTM
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 665.421895
+RT: 10.52
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C32H60N2O12
+MW: 664
+Exactmass: 664.41462
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OCOCCOC)C)O)O)CC(O1)C
+Num Peaks: 4
+89.06049 63
+144.10215 100
+522.32818 41
+665.42197 7
+
+Name: RTM algycone
+Synon: RTM algycone
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 522.327275
+RT: 12.04
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C25H47NO10
+MW: 521
+Exactmass: 521.32
+SMILES: OC(C(C(C(C1=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O1)CC)O)O)C)=N\OCOCCOC)C)O
+Num Peaks: 5
+142.12289 67
+239.12805 41
+340.19656 86
+398.25381 39
+522.32763 37
+
+Name: RTM (9Z) isomer
+Synon: RTM (9Z) isomer
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 837.531845
+RT: 11.55
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C41H76N2O15
+MW: 837
+Exactmass: 836.52457
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N/OCOCCOC)C)O)O)CC(O1)C
+Num Peaks: 4
+83.04987 69
+158.11769 100
+679.43805 16
+837.53176 1.4
+
+Name: Phosphorylated RTM (9Z) isomer
+Synon: Phosphorylated RTM (9Z) isomer
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 917.498175
+RT: 11.66
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C41H77N2O18P
+MW: 916
+Exactmass: 916.4909
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N/OCOCCOC)C)O)OP(O)(O)=O)CC(O1)C
+Num Peaks: 5
+98.09692 99
+238.08348 97
+602.30846 18
+620.31882 43
+917.49838 1.7
+
+Name: Decladinose RTM (9Z) isomer
+Synon: Decladinose RTM (9Z) isomer
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 679.437555
+RT: 10.18
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C33H62N2O12
+MW: 678
+Exactmass: 678.43028
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N/OCOCCOC)C)O)O)CC(O1)C
+Num Peaks: 5
+72.08179 43
+116.10735 31
+158.11765 100
+522.33466 1.2
+679.4378 1.4
+
+Name: O-demethyl decladinose RTM (9Z) isomer
+Synon: O-demethyl decladinose RTM (9Z) isomer
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 665.421895
+RT: 9.35
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C32H60N2O12
+MW: 664
+Exactmass: 664.41462
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N/OCOCCO)C)O)O)CC(O1)C
+Num Peaks: 3
+72.08172 49
+158.11749 100
+665.42205 14
+
+Name: RTM-TP837-11.02
+Synon: RTM-TP837-11.02
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 837.495455
+RT: 11.02
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C40H72N2O16
+MW: 836
+Exactmass: 836.48818
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OC(OCCO)=O)C)O)O)CC(O1)C
+Num Peaks: 5
+83.04987 74
+158.11765 100
+522.28436 1.1
+679.40173 41
+837.49574 1.1
+
+Name: N-demethyl RTM-TP837-11.02
+Synon: N-demethyl RTM-TP837-11.02
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 823.479805
+RT: 11.02
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C39H70N2O16
+MW: 822
+Exactmass: 822.47253
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OC(OCCO)=O)C)O)O)CC(O1)C
+Num Peaks: 5
+83.04974 100
+144.10196 28
+522.28935 11
+665.41792 35
+823.47974 21
+
+Name: Decladinose RTM-TP837-11.02
+Synon: Decladinose RTM-TP837-11.02
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 679.401165
+RT: 9.64
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C32H58N2O13
+MW: 678
+Exactmass: 678.39389
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OC(OCCO)=O)C)O)O)CC(O1)C
+Num Peaks: 4
+72.08178 43
+116.10741 38
+158.11771 100
+679.40146 4.4
+
+Name: N-demethyl decladinose RTM-TP837-11.02
+Synon: N-demethyl decladinose RTM-TP837-11.02
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 665.385515
+RT: 9.5
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C31H56N2O13
+MW: 664
+Exactmass: 664.37824
+SMILES: CNC(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\OC(OCCO)=O)C)O)O)CC(O1)C
+Num Peaks: 3
+144.10199 100
+522.2909 38
+665.38569 19
+
+Name: N'-demethyl Erythromycin A 9-oxime
+Synon: N'-demethyl Erythromycin A 9-oxime
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 735.463765
+RT: 10.88
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C36H66N2O13
+MW: 734
+Exactmass: 734.45649
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)OC3CC(C)(C(C(O3)C)O)OC)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\O)C)O)O)CC(O1)C
+Num Peaks: 5
+83.04979 100
+144.102 14
+434.2749 9
+577.37568 23
+735.46279 1.5
+
+Name: Decladinose Erythromycin A 9-oxime
+Synon: Decladinose Erythromycin A 9-oxime
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 591.385125
+RT: 9.35
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C29H54N2O10
+MW: 590
+Exactmass: 590.37785
+SMILES: CN(C)C(C(C1OC(C(C(C(C2=O)C)O)C)C(C)(CC(/C(C(C(C(C)(C(O2)CC)O)O)C)=N\O)C)O)O)CC(O1)C
+Num Peaks: 5
+72.08171 48
+116.10721 37
+158.11749 100
+434.27441 5.1
+591.38574 24
+
+Name: Oxocipfloxacin
+Synon: Oxocipfloxacin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 346.119755
+RT: 9.06
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H16FN3O4
+MW: 345
+Exactmass: 345.11248
+SMILES: C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N4CCNC(=O)C4)F)C(=O)O
+Num Peaks: 3
+217.04083 41
+235.05168 15
+346.11975 100
+
+Name: Ciprofloxacin 7-amino
+Synon: Ciprofloxacin 7-amino
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 263.082645
+RT: 8.64
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H11FN2O3
+MW: 262
+Exactmass: 262.07537
+SMILES: C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N)F)C(=O)O
+Num Peaks: 5
+167.07296 37
+204.0351 5
+232.07006 100
+245.07259 3
+263.08259 24
+
+Name: N-acetylnorfloxacin
+Synon: N-acetylnorfloxacin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 362.151055
+RT: 10.02
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C18H20FN3O4
+MW: 361
+Exactmass: 361.14378
+SMILES: CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C(=O)C)F)C(=O)O
+Num Peaks: 4
+231.05678 4.1
+274.09885 2.4
+344.14767 1.5
+362.1511 100
+
+Name: N-formylnorfloxacin
+Synon: N-formylnorfloxacin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 348.135405
+RT: 9.66
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H18FN3O4
+MW: 347
+Exactmass: 347.12813
+SMILES: CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCN(CC3)C=O)F)C(=O)O
+Num Peaks: 5
+231.05615 4.4
+240.12807 20
+274.09756 3.2
+330.17627 1.4
+348.13534 100
+
+Name: Oxonorfloxacin
+Synon: Oxonorfloxacin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 334.119755
+RT: 8.93
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C16H16FN3O4
+MW: 333
+Exactmass: 333.11248
+SMILES: CCN1C=C(C(=O)C2=CC(=C(C=C21)N3CCNC(=O)C3)F)C(=O)O
+Num Peaks: 3
+217.04103 3.6
+235.05153 4.7
+334.11991 100
+
+Name: Norfloxacin 7-amino
+Synon: Norfloxacin 7-amino
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 251.082645
+RT: 8.35
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C12H11FN2O3
+MW: 250
+Exactmass: 250.07537
+SMILES: CCN1C=C(C(=O)C2=CC(=C(C=C21)N)F)C(=O)O
+Num Peaks: 5
+122.04041 10.9
+204.03304 3.4
+223.05151 10
+233.07339 4.5
+251.08271 100
+
+Name: Ofloxacin despropylene
+Synon: Ofloxacin despropylene
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 336.135405
+RT: 6.35
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C16H18FN3O4
+MW: 335
+Exactmass: 335.12813
+SMILES: CC1COC2=C3N1C=C(C(=O)C3=CC(=C2NCCNC)F)C(=O)O
+Num Peaks: 6
+261.06683 8.8
+275.08759 1.5
+279.07736 100
+298.1185 7.9
+316.12894 20
+336.1352 78
+
+Name: Ofloxacin 7-amino
+Synon: Ofloxacin 7-amino
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 279.077555
+RT: 8.45
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H11FN2O4
+MW: 278
+Exactmass: 278.07028
+SMILES: CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N)F)C(=O)O
+Num Peaks: 4
+149.02337 100
+238.03849 1.2
+261.0669 2.8
+279.07757 42
+
+Name: Amoxicillin penilloic acid
+Synon: Amoxicillin penilloic acid
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 340.132555
+RT: 4.45
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C15H21N3O4S
+MW: 339
+Exactmass: 339.12528
+SMILES: CC1(C(NC(S1)CNC(=O)C(C2=CC=C(C=C2)O)N)C(=O)O)C
+Num Peaks: 5
+87.02712 23
+107.04965 100
+114.03754 76
+160.04298 34
+340.13283 14
+
+Name: Ampicillin diketopiperazine
+Synon: Ampicillin diketopiperazine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 350.116905
+RT: 8.44
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C16H19N3O3S
+MW: 349
+Exactmass: 349.10963
+SMILES: CC1(C(NC(S1)C2C(=O)NC(C(=O)N2)C3=CC=CC=C3)C(=O)O)C
+Num Peaks: 6
+87.02705 45
+106.06573 28
+114.03756 71
+160.04279 100
+304.11142 22
+350.11682 75
+
+Name: Phenylglycine
+Synon: Phenylglycine
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 152.070605
+RT: 7.03
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C8H9NO2
+MW: 151
+Exactmass: 151.06333
+SMILES: C1=CC=C(C=C1)C(C(=O)O)N
+Num Peaks: 3
+79.05503 100
+134.06042 87.2
+152.07084 14.1
+
+Name: Mezlocillin penicilloic acid
+Synon: Mezlocillin penicilloic acid
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 558.132295
+RT: 9.18
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C21H27N5O9S2
+MW: 557
+Exactmass: 557.12502
+SMILES: O=C(C1NC(C(NC(C(NC(N2CCN(S(=O)(C)=O)C2=O)=O)C3=CC=CC=C3)=O)C(O)=O)SC1(C)C)O
+Num Peaks: 6
+132.04466 100
+175.08685 25
+253.06421 44
+296.07013 63
+514.14343 27
+558.1329 1.5
+
+Name: Mezlocillin penilloic acid
+Synon: Mezlocillin penilloic acid
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 514.142465
+RT: 9.34
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C20H27N5O7S2
+MW: 513
+Exactmass: 513.13519
+SMILES: O=C(C1NC(CNC(C(NC(N2CCN(S(=O)(C)=O)C2=O)=O)C3=CC=CC=C3)=O)SC1(C)C)O
+Num Peaks: 5
+132.0446 100
+175.08681 41
+253.06413 48
+296.07001 54
+514.1431 63
+
+Name: Mezlocillin-TP383-7.97
+Synon: Mezlocillin-TP383-7.97
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 383.101975
+RT: 7.97
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C15H18N4O6S
+MW: 382
+Exactmass: 382.0947
+SMILES: O=CCNC(C(NC(N1CCN(S(=O)(C)=O)C1=O)=O)C2=CC=CC=C2)=O
+Num Peaks: 5
+132.0446 81
+175.08682 25
+253.06415 28
+296.0701 100
+383.10211 1.9
+
+Name: Mezlocillin-TP342-8.33
+Synon: Mezlocillin-TP342-8.33
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 342.075435
+RT: 8.33
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H15N3O6S
+MW: 341
+Exactmass: 341.06816
+SMILES: CS(=O)(=O)N1CCN(C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)O
+Num Peaks: 5
+79.05498 88
+132.04444 83
+175.08684 37
+253.06395 42
+342.07556 2.8
+
+Name: Mezlocillin-TP341-7.50
+Synon: Mezlocillin-TP341-7.50
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 341.091415
+RT: 7.5
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H16N4O5S
+MW: 340
+Exactmass: 340.08414
+SMILES: CS(=O)(=O)N1CCN(C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)N
+Num Peaks: 5
+132.04465 100
+175.08685 24
+253.06418 29
+296.07013 88
+341.09166 2.3
+
+Name: Piperacillin penicilloic acid
+Synon: Piperacillin penicilloic acid
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 536.180955
+RT: 9.28
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C23H29N5O8S
+MW: 535
+Exactmass: 535.17368
+SMILES: CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NC(C3NC(C(S3)(C)C)C(=O)O)C(=O)O
+Num Peaks: 4
+143.08177 100
+160.04282 24
+350.11716 42
+536.18152 0.2
+
+Name: Piperacillin penilloic acid
+Synon: Piperacillin penilloic acid
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 492.191125
+RT: 9.24
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C22H29N5O6S
+MW: 491
+Exactmass: 491.18385
+SMILES: CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NCC3NC(C(S3)(C)C)C(=O)O
+Num Peaks: 4
+143.08177 73
+174.05861 18
+350.1171 100
+492.19142 0.7
+
+Name: Piperacillin-TP319-7.58
+Synon: Piperacillin-TP319-7.58
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 319.140075
+RT: 7.58
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C15H18N4O4
+MW: 318
+Exactmass: 318.1328
+SMILES: CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)N
+Num Peaks: 3
+115.05051 22
+143.08177 100
+319.14029 24
+
+Name: Piperacillin-TP320-8.46
+Synon: Piperacillin-TP320-8.46
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 320.124095
+RT: 8.46
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C15H17N3O5
+MW: 319
+Exactmass: 319.11682
+SMILES: CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)O
+Num Peaks: 3
+115.05062 26
+143.08176 100
+320.12423 4.9
+
+Name: Piperacillin-TP361-7.95
+Synon: Piperacillin-TP361-7.95
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 361.150645
+RT: 7.95
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H20N4O5
+MW: 360
+Exactmass: 360.14337
+SMILES: O=CCNC(C(NC(N1C(C(N(CC)CC1)=O)=O)=O)C2=CC=CC=C2)=O
+Num Peaks: 3
+115.05059 20.8
+143.08171 100
+361.15071 1.2
+
+Name: Piperacillin-TP377-7.78
+Synon: Piperacillin-TP377-7.78
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 377.145555
+RT: 7.78
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H20N4O6
+MW: 376
+Exactmass: 376.13828
+SMILES: CCN1CCN(C(=O)C1=O)C(=O)NC(C2=CC=CC=C2)C(=O)NCC(=O)O
+Num Peaks: 3
+115.0506 23
+143.08168 100
+377.14563 1.5
+
+Name: Piperacillin-TP394-8.41
+Synon: Piperacillin-TP394-8.41
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 394.106735
+RT: 8.41
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H19N3O6S
+MW: 393
+Exactmass: 393.09946
+SMILES: O=C=NC(C(NC(C(O)=O)C(SC(C)1C)NC1C(O)=O)=O)C2=CC=CC=C2
+Num Peaks: 7
+87.02705 46
+106.06572 38
+114.03761 63
+160.0428 100
+304.11151 35
+350.11694 41
+394.10681 6.1
+
+Name: Piperacillin-TP534-9.55
+Synon: Piperacillin-TP534-9.55
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 534.165305
+RT: 9.55
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C23H27N5O8S
+MW: 533
+Exactmass: 533.15803
+SMILES: O=C(C(N1)=C(C)CSC1C(NC(C(NC(N2C(C(N(CC)CC2)=O)=O)=O)C3=CC=CC=C3)=O)C(O)=O)O
+Num Peaks: 3
+115.05038 27
+143.08156 100
+534.16589 1.5
+
+Name: Piperacillin-TP490-9.79
+Synon: Piperacillin-TP490-9.79
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 490.175475
+RT: 9.79
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C22H27N5O6S
+MW: 489
+Exactmass: 489.1682
+SMILES: O=C(C(N1)=C(C)CSC1CNC(C(NC(N2C(C(N(CC)CC2)=O)=O)=O)C3=CC=CC=C3)=O)O
+Num Peaks: 4
+115.05058 28
+143.08173 100
+348.10138 29
+490.17593 0.3
+
+Name: Piperacillin-TP392-9.24
+Synon: Piperacillin-TP392-9.24
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 392.091085
+RT: 9.24
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H17N3O6S
+MW: 391
+Exactmass: 391.08381
+SMILES: O=C(C(N1)=C(C)CSC1C(C(O)=O)NC(C(N=C=O)C2=CC=CC=C2)=O)O
+Num Peaks: 5
+104.04985 46
+114.0374 68
+160.04254 100
+348.101 11
+392.09106 18
+
+Name: Piperacillin-TP552-9.11
+Synon: Piperacillin-TP552-9.11
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 552.175875
+RT: 9.11
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C23H29N5O9S
+MW: 551
+Exactmass: 551.1686
+SMILES: O=C(C1NC(C(NC(C(NC(N2C(C(N(CC)CC2)=O)=O)=O)C3=CC=C(O)C=C3)=O)C(O)=O)SC1(C)C)O
+Num Peaks: 4
+106.06549 100
+143.08151 61
+322.12122 1.5
+552.17608 29
+
+Name: Piperacillin-TP508-8.88
+Synon: Piperacillin-TP508-8.88
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 508.186045
+RT: 8.88
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C22H29N5O7S
+MW: 507
+Exactmass: 507.17877
+SMILES: CCN(C(C1=O)=O)CCN1C(NC(C(NCC(SC(C)2C)NC2C(O)=O)=O)C3=CC=C(O)C=C3)=O
+Num Peaks: 5
+106.06569 100
+143.08177 5.7
+248.1396 11
+322.12219 27
+508.1868 1.5
+
+Name: Piperacillin-TP335-5.02
+Synon: Piperacillin-TP335-5.02
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 335.134995
+RT: 5.02
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C15H18N4O5
+MW: 334
+Exactmass: 334.12772
+SMILES: NC(C(NC(N1C(C(N(CC)CC1)=O)=O)=O)C2=CC=C(O)C=C2)=O
+Num Peaks: 3
+115.05048 27
+143.08176 100
+335.13518 28
+
+Name: Piperacillin-TP336-6.46
+Synon: Piperacillin-TP336-6.46
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 336.119015
+RT: 6.46
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C15H17N3O6
+MW: 335
+Exactmass: 335.11174
+SMILES: OC(C(NC(N1C(C(N(CC)CC1)=O)=O)=O)C2=CC=C(O)C=C2)=O
+Num Peaks: 3
+115.05054 24
+143.08167 100
+336.11907 1.9
+
+Name: Piperacillin-TP393-5.60
+Synon: Piperacillin-TP393-5.60
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 393.140475
+RT: 5.6
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H20N4O7
+MW: 392
+Exactmass: 392.1332
+SMILES: O=C(O)CNC(C(NC(N1C(C(N(CC)CC1)=O)=O)=O)C2=CC=C(O)C=C2)=O
+Num Peaks: 3
+115.05058 29
+143.08171 100
+393.14051 13
+
+Name: Piperacillin-TP410-8.25
+Synon: Piperacillin-TP410-8.25
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 410.101645
+RT: 8.25
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H19N3O7S
+MW: 409
+Exactmass: 409.09437
+SMILES: O=C=NC(C(NC(C(O)=O)C(SC(C)1C)NC1C(O)=O)=O)C2=CC=C(O)C=C2
+Num Peaks: 5
+104.0499 64
+114.03737 64
+160.04253 100
+189.06583 23
+410.10173 1.1
+
+Name: Piperacillin-TP143-1.59
+Synon: Piperacillin-TP143-1.59
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 143.081505
+RT: 1.59
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C6H10N2O2
+MW: 142
+Exactmass: 142.07423
+SMILES: CCN1CCNC(=O)C1=O
+Num Peaks: 3
+70.02976 39
+115.05063 67
+143.08168 100
+
+Name: Piperacillin-TP115-1.59
+Synon: Piperacillin-TP115-1.59
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 115.050205
+RT: 1.59
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C4H6N2O2
+MW: 114
+Exactmass: 114.04293
+SMILES: C1CNC(=O)C(=O)N1
+Num Peaks: 3
+70.02981 48.9
+115.05063 2.9
+115.05064 100
+
+Name: N-demethyl clindamycin
+Synon: N-demethyl clindamycin
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 411.171695
+RT: 9.9
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H31ClN2O5S
+MW: 410
+Exactmass: 410.16442
+SMILES: CCCC1CC(NC1)C(=O)NC(C2C(C(C(C(O2)SC)O)O)O)C(C)Cl
+Num Peaks: 3
+112.1125 100
+363.16824 18
+411.17158 31
+
+Name: N-demethyl clindamycin sulfoxide
+Synon: N-demethyl clindamycin sulfoxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 427.166405
+RT: 8.37
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C17H31ClN2O6S
+MW: 426
+Exactmass: 426.15913
+SMILES: CCCC1CC(NC1)C(=O)NC(C2C(C(C(C(O2)S(=O)C)O)O)O)C(C)Cl
+Num Peaks: 3
+112.11242 100
+363.1682 55
+427.16612 26
+
+Name: Clindamycin phosphate sulfoxide
+Synon: Clindamycin phosphate sulfoxide
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 521.148395
+RT: 8.85
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C18H34ClN2O9PS
+MW: 520
+Exactmass: 520.14112
+SMILES: O=C(C1N(C)CC(CCC)C1)NC(C2OC(S(C)=O)C(OP(O)(O)=O)C(O)C2O)C(Cl)C
+Num Peaks: 4
+126.128 100
+359.17295 8.8
+457.15001 29
+521.149 5.4
+
+Name: Clindamycin sulfone
+Synon: Clindamycin sulfone
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 457.176975
+RT: 7.89
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C18H33ClN2O7S
+MW: 456
+Exactmass: 456.1697
+SMILES: CCCC1CC(N(C1)C)C(=O)NC(C2C(C(C(C(O2)S(=O)(=O)C)O)O)O)C(C)Cl
+Num Peaks: 3
+126.12806 100
+377.18396 8.8
+457.17736 40.2
+
+Name: 2-Methyl-5-nitroimidazole
+Synon: 2-Methyl-5-nitroimidazole
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 128.045455
+RT: 2.95
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C4H5N3O2
+MW: 127
+Exactmass: 127.03818
+SMILES: CC1=NC=C(N1)[N+](=O)[O-]
+Num Peaks: 5
+68.0505 34
+82.06599 88
+96.04521 12
+111.04424 35
+128.04575 100
+
+Name: Chloramphenicol 3-acetate
+Synon: Chloramphenicol 3-acetate
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 363.015615
+RT: 8.61
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C13H14Cl2N2O6
+MW: 364
+Exactmass: 364.02289
+SMILES: CC(=O)OCC(C(C1=CC=C(C=C1)[N+](=O)[O-])O)NC(=O)C(Cl)Cl
+Num Peaks: 4
+121.02853 100
+152.03488 34
+236.0557 20
+363.01605 57
+
+Name: Mycophenolic acid methyl ester
+Synon: Mycophenolic acid methyl ester
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 335.148915
+RT: 11.8
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C18H22O6
+MW: 334
+Exactmass: 334.14164
+SMILES: CC1=C2COC(=O)C2=C(C(=C1OC)CC=C(C)CCC(=O)OC)O
+Num Peaks: 5
+91.0548 37
+177.05444 39
+207.06483 100
+275.12726 18
+335.14865 14
+
+Name: O-demethyl mycophenolic acid
+Synon: O-demethyl mycophenolic acid
+Precursor_type: [M+H]+
+Spectrum_type: MS2
+PrecursorMZ: 307.117615
+RT: 10.59
+Instrument: Q Exactive Focus Orbitrap MS Thermo Scientific
+lon_mode: P
+Collision_energy: 30
+Formula: C16H18O6
+MW: 306
+Exactmass: 306.11034
+SMILES: CC1=C2COC(=O)C2=C(C(=C1O)CC=C(C)CCC(=O)O)O
+Num Peaks: 5
+91.05495 64
+165.05481 23
+193.04977 100
+261.11246 10.5
+307.11757 46
+

@@ -1,0 +1,2504 @@
+Name: Lincomycin (LIN)
+Synon: Lincomycin (LIN)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 407.2206
+Formula: C18H34O6N2S
+ExactMass: 406.21376
+RT: NA
+SMILES: CCCC1CC(N(C)C1)C(=O)NC(C(C)O)C1OC(SC)C(O)C(O)C1O
+Comment: "Parent; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 2
+126.1274 NA
+359.2179 NA
+
+Name: LIN TP423
+Synon: LIN TP423
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 423.2154
+Formula: C18H34O7N2S
+ExactMass: 422.20867
+RT: NA
+SMILES: CCCC1CC(C(NC(C2OC(C(C(C2O)O)O)SCO)C(O)C)=O)N(C1)C
+Comment: "TP; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 2
+126.1272 NA
+359.218 NA
+
+Name: LIN TP393
+Synon: LIN TP393
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 393.2055
+Formula: C17H32O6N2S
+ExactMass: 392.19811
+RT: NA
+SMILES: CCCC1CC(C(NC(C2OC(C(C(C2O)O)O)SC)C(O)C)=O)NC1
+Comment: "TP; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 1
+112.1119 NA
+
+Name: Ciprofloxacin (CFX)
+Synon: Ciprofloxacin (CFX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 332.1402
+Formula: C17H18O3N3F
+ExactMass: 331.13322
+RT: NA
+SMILES: OC(=O)C1=CN(C2CC2)C2=CC(N3CCNCC3)=C(F)C=C2C1=O
+Comment: "Parent; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 2
+245.1083 NA
+288.1505 NA
+
+Name: CFX TP361
+Synon: CFX TP361
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 361.1311
+Formula: C17H17O4N4F
+ExactMass: 360.12338
+RT: NA
+SMILES: OC(C1=CN(C2=CC(N3CCN(N=O)CC3)=C(C=C2C1=O)F)C4CC4)=O
+Comment: "TP; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 2
+257.0725 NA
+271.0877 NA
+
+Name: CFX TP263
+Synon: CFX TP263
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 263.0827
+Formula: C13H11O3N2F
+ExactMass: 262.07537
+RT: NA
+SMILES: C1CC1N2C=C(C(=O)C3=CC(=C(C=C32)N)F)C(=O)O
+Comment: "TP; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 2
+204.0327 NA
+245.0734 NA
+
+Name: Norfloxacin (NFX)
+Synon: Norfloxacin (NFX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 320.1405
+Formula: C16H18O3N3F
+ExactMass: 319.13322
+RT: NA
+SMILES: CCN1C=C(C(O)=O)C(=O)C2=CC(F)=C(C=C12)N1CCNCC1
+Comment: "Parent; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 3
+205.0769 NA
+233.1082 NA
+302.13 NA
+
+Name: NFX TP349
+Synon: NFX TP349
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 349.1306
+Formula: C16H17O4N4F
+ExactMass: 348.12338
+RT: NA
+SMILES: CCN1C=C(C(C2=CC(F)=C(N3CCN(N=O)CC3)C=C12)=O)C(O)=O
+Comment: "TP; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 2
+245.0719 NA
+259.0876 NA
+
+Name: NFX TP251
+Synon: NFX TP251
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 251.0825
+Formula: C12H11O3N2F
+ExactMass: 250.07537
+RT: NA
+SMILES: CCN1C=C(C(=O)C2=CC(=C(C=C21)N)F)C(=O)O
+Comment: "TP; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 1
+233.0722 NA
+
+Name: Ofloxacin (OFX)
+Synon: Ofloxacin (OFX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 362.1506
+Formula: C18H20O4N3F
+ExactMass: 361.14378
+RT: NA
+SMILES: CC1COC2=C(N3CCN(C)CC3)C(F)=CC3=C2N1C=C(C(O)=O)C3=O
+Comment: "Parent; https://doi.org/10.1016/j.watres.2021.117003; Zhou et al., 2021"
+Num Peaks: 3
+261.1032 NA
+318.1611 NA
+344.1403 NA
+
+Name: Ofloxacin (OFLOX)
+Synon: Ofloxacin (OFLOX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 362.15115
+Formula: C18H20O4N3F
+ExactMass: 361.14378
+RT: NA
+SMILES: CC1COC2=C(N3CCN(C)CC3)C(F)=CC3=C2N1C=C(C(O)=O)C3=O
+Comment: "Parent; http://dx.doi.org/10.1016/j.watres.2014.04.042; Gros et al., 2014"
+Num Peaks: 3
+261.10367 NA
+318.16156 NA
+344.1087 NA
+
+Name: OFLOX TP363
+Synon: OFLOX TP363
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 364.13048
+Formula: C17H18O5N3F
+ExactMass: 363.12305
+RT: NA
+SMILES: CC1COC2=C(C(F)=CC3=C2N1C=C(C3=O)C(O)=O)N(CCNC)C=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2014.04.042; Gros et al., 2014"
+Num Peaks: 5
+235.08807 NA
+289.09863 NA
+333.0885 NA
+320.14096 NA
+346.12009 NA
+
+Name: OFLOX TP347
+Synon: OFLOX TP347
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 348.13549
+Formula: C17H18O4N3F
+ExactMass: 347.12813
+RT: NA
+SMILES: CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N4CCNCC4)F)C(=O)O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2014.04.042; Gros et al., 2014"
+Num Peaks: 3
+261.10367 NA
+304.14584 NA
+330.12497 NA
+
+Name: OFLOX TP375
+Synon: OFLOX TP375
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 376.13072
+Formula: C18H18O5N3F
+ExactMass: 375.12305
+RT: NA
+SMILES: CC1COC2=C3N1C=C(C(O)=O)C(C3=CC(F)=C2N4CCN(C)C(C4)=O)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2014.04.042; Gros et al., 2014"
+Num Peaks: 2
+348.13577 NA
+358.11911 NA
+
+Name: OFLOX TP389
+Synon: OFLOX TP389
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 390.10995
+Formula: C18H16O6N3F
+ExactMass: 389.10231
+RT: NA
+SMILES: CC1COC2=C3N1C=C(C(O)=O)C(C3=CC(F)=C2N4CC(N(C)C(C4)=O)=O)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2014.04.042; Gros et al., 2014"
+Num Peaks: 2
+362.11536 NA
+372.09933 NA
+
+Name: OFLOX TP278
+Synon: OFLOX TP278
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 279.07775
+Formula: C13H10O4N2F
+ExactMass: 277.06246
+RT: NA
+SMILES: CC1COC2=C3N1C=C(C(=O)C3=CC(=C2N)F)C(=O)O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2014.04.042; Gros et al., 2014"
+Num Peaks: 2
+238.03874 NA
+261.06726 NA
+
+Name: Sulfamethoxazole (SMX)
+Synon: Sulfamethoxazole (SMX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 254.0591
+Formula: C10H11O3N3S
+ExactMass: 253.05211
+RT: NA
+SMILES: CC1=CC(NS(=O)(=O)C2=CC=C(N)C=C2)=NO1
+Comment: "Parent; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 4
+92.0498 19.84
+99.0554 21.22
+108.0444 100.0
+156.0114 76.51
+
+Name: SMX TP288
+Synon: SMX TP288
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 288.0202
+Formula: C10H10N3O3SCl
+ExactMass: 287.01314
+RT: NA
+SMILES: CC1=CC(NS(=O)(C2=CC=C(C=C2)NCl)=O)=NO1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+99.0554 37.15
+142.0054 100.0
+189.9723 76.24
+
+Name: SMX TP142
+Synon: SMX TP142
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 142.0055
+Formula: C6H4ONCl
+ExactMass: 140.99814
+RT: NA
+SMILES: O=C1C=C/C(C=C1)=N/Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+79.042 38.14
+95.0367 14.93
+107.0366 100.0
+
+Name: SMX TP179
+Synon: SMX TP179
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 179.0121
+Formula: C4H6O4N2S
+ExactMass: 178.00483
+RT: NA
+SMILES: CC1=CC(NS(=O)(O)=O)=NO1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 2
+99.0555 100.0
+161.0017 13.77
+
+Name: SMX TP215
+Synon: SMX TP215
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 215.0814
+Formula: C12H10N2O2
+ExactMass: 214.07423
+RT: NA
+SMILES: OC1=CC=C(/N=N/C2=CC=C(O)C=C2)C=C1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 2
+65.0392 100.0
+121.0396 84.67
+
+Name: SMX TP99
+Synon: SMX TP99
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 99.0554
+Formula: C4H6N2O
+ExactMass: 98.04801
+RT: NA
+SMILES: CC1=CC(N)=NO1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 1
+72.0449 61.52
+
+Name: SMX TP193
+Synon: SMX TP193
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 193.072
+Formula: C8H8O2N4
+ExactMass: 192.06473
+RT: NA
+SMILES: CC1=CC(N=NC2=CC(C)=NO2)=NO1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 1
+110.0349 100.0
+
+Name: SMX TP190
+Synon: SMX TP190
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 190.0974
+Formula: C10H11ON3
+ExactMass: 189.09021
+RT: NA
+SMILES: CC1=CC(NC2=CC=C(N)C=C2)=NO1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 5
+92.0498 4.9
+107.0604 17.31
+108.0685 11.64
+119.0611 8.54
+131.0604 15.29
+
+Name: SMX TP238
+Synon: SMX TP238
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 238.0376
+Formula: C10H8N3O2Cl
+ExactMass: 237.0305
+RT: NA
+SMILES: NC(C=C1)=CC(Cl)=C1NC2=NOC(C=O)=C2
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 2
+68.0137 14.15
+210.0419 2.4
+
+Name: SMX TP270
+Synon: SMX TP270
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 270.0542
+Formula: C10H11N3O4S
+ExactMass: 269.04703
+RT: NA
+SMILES: CC1=CC(NS(=O)(C2=CC=C(C(O)=C2)N)=O)=NO1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 4
+95.0555 43.19
+124.0393 62.55
+172.0062 21.57
+204.0769 1.27
+
+Name: SMX TP284
+Synon: SMX TP284
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 284.0333
+Formula: C10H9N3O5S
+ExactMass: 283.02629
+RT: NA
+SMILES: O=S(NC1=NOC(C=O)=C1)(C2=CC=C(C(O)=C2)N)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+120.0318 100.0
+138.0423 64.19
+160.0504 37.98
+
+Name: Sulfathiazole (STZ)
+Synon: Sulfathiazole (STZ)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 256.0205
+Formula: C9H9O2N3S2
+ExactMass: 255.01362
+RT: NA
+SMILES: NC1=CC=C(C=C1)S(=O)(=O)NC1=NC=CS1
+Comment: "Parent; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 6
+65.0392 5.14
+92.0497 21.37
+108.0444 100.0
+140.0158 22.53
+156.0113 82.91
+190.0429 0.19
+
+Name: STZ TP289
+Synon: STZ TP289
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 289.9816
+Formula: C9H8O2N3ClS2
+ExactMass: 288.97465
+RT: NA
+SMILES: NC1=CC=C(S(=O)(NC2=NC(Cl)=CS2)=O)C=C1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 5
+92.0497 15.36
+108.0445 86.84
+134.9778 1.5
+156.0114 100.0
+224.0049 0.27
+
+Name: STZ TP156
+Synon: STZ TP156
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 156.0112
+Formula: C6H5O2NS
+ExactMass: 155.0041
+RT: NA
+SMILES: N=C1C=CC(C=C1)=S(=O)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+65.0393 100.0
+92.0498 48.25
+108.0446 25.4
+
+Name: STZ TP101
+Synon: STZ TP101
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 101.0168
+Formula: C3H4N2S
+ExactMass: 100.00952
+RT: NA
+SMILES: NC1=NC=CS1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+58.9958 76.34
+74.0064 19.24
+83.9906 0.68
+
+Name: STZ TP134
+Synon: STZ TP134
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 134.9779
+Formula: C3H3N2ClS
+ExactMass: 133.97055
+RT: NA
+SMILES: NC1=NC(Cl)=CS1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+92.9563 100.0
+99.0013 0.23
+107.967 18.25
+
+Name: STZ TP224
+Synon: STZ TP224
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 224.0043
+Formula: C9H6N3ClS
+ExactMass: 222.9971
+RT: NA
+SMILES: N=C1C=C/C(C=C1Cl)=N/C2=NC=CS2
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+161.0169 62.28
+188.0279 51.99
+189.0356 100.0
+
+Name: STZ TP272
+Synon: STZ TP272
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 272.0155
+Formula: C9H9O3N3S2
+ExactMass: 271.00853
+RT: NA
+SMILES: NC1=CC=C(S(=O)(NC2=NC(O)=CS2)=O)C=C1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+92.0497 18.27
+108.0445 100.0
+156.0115 65.49
+
+Name: STZ TP216
+Synon: STZ TP216
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 216.0436
+Formula: C7H9O3N3S
+ExactMass: 215.03646
+RT: NA
+SMILES: NC1=CC=C(S(=O)(N/C=N/O)=O)C=C1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 4
+65.0393 11.2
+92.0498 24.97
+108.0445 100.0
+156.0115 23.23
+
+Name: STZ TP347
+Synon: STZ TP347
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 347.0632
+Formula: C15H14O2N4S2
+ExactMass: 346.05582
+RT: NA
+SMILES: O=S(C(C=C1)=CC=C1NNC2=CC=CC=C2)(NC3=NC=CS3)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+183.0919 27.15
+199.0867 24.03
+247.0535 6.71
+
+Name: STZ TP351
+Synon: STZ TP351
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 351.9888
+Formula: C12H9O2N5S3
+ExactMass: 350.99184
+RT: NA
+SMILES: O=S(C(C=C1)=CC=C1/N=N\C2=NC=CS2)(NC3=NC=CS3)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+175.0326 100.0
+238.9943 41.28
+288.0368 11.35
+
+Name: Sulfadimethoxine (SDM)
+Synon: Sulfadimethoxine (SDM)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 311.0807
+Formula: C12H14O4N4S
+ExactMass: 310.07358
+RT: NA
+SMILES: COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC
+Comment: "Parent; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 5
+92.0497 9.25
+108.0444 48.87
+156.0114 100.0
+218.0229 14.96
+245.1032 20.17
+
+Name: SDM TP345
+Synon: SDM TP345
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 345.0416
+Formula: C12H13O4N4ClS
+ExactMass: 344.0346
+RT: NA
+SMILES: O=S(NC1=CC(OCCl)=NC(OC)=N1)(C2=CC=C(N)C=C2)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 5
+92.0496 8.14
+108.0444 46.25
+156.0113 100.0
+190.0377 53.98
+279.064 5.04
+
+Name: SDM TP379
+Synon: SDM TP379
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 379.0026
+Formula: C12H12O4N4ClS
+ExactMass: 377.99563
+RT: NA
+SMILES: O=S(NC1=CC(OCCl)=NC(OCCl)=N1)(C2=CC=C(N)C=C2)=O
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+126.0101 1.01
+142.0055 49.7
+189.9725 100.0
+
+Name: SDM TP410
+Synon: SDM TP410
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 410.9478
+Formula: C12H9N4O4Cl3S
+ExactMass: 409.94101
+RT: NA
+SMILES: COC1=NC(OC)=NC(NS(=O)(C2=CC=C(N)C(Cl)=C2Cl)=O)=C1Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+277.0487 100.0
+312.0175 23.86
+346.9863 28.58
+
+Name: SDM TP156b
+Synon: SDM TP156b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 156.0113
+Formula: C6H5O2NS
+ExactMass: 155.0041
+RT: NA
+SMILES: O=S(=O)=C1C=CC(C=C1)=N
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 2
+92.0497 42.92
+108.0444 25.99
+
+Name: SDM TP156a
+Synon: SDM TP156a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 156.0768
+Formula: C6H9O2N3
+ExactMass: 155.06948
+RT: NA
+SMILES: COC1=NC(OC)=NC(N)=C1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 5
+67.0297 68.55
+82.0291 57.49
+98.0477 18.46
+113.0583 24.6
+124.0506 47.33
+
+Name: SDM TP190
+Synon: SDM TP190
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 190.0376
+Formula: C6H8O2N3Cl
+ExactMass: 189.0305
+RT: NA
+SMILES: COC1=NC(OC)=NC(N)=C1Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+72.0449 15.45
+132.0085 11.98
+158.0116 14.29
+
+Name: SDM TP170
+Synon: SDM TP170
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 170.9723
+Formula: C3H4O2N2Cl2
+ExactMass: 169.96498
+RT: NA
+SMILES: O/C=N/C(O)/N=C(Cl)/Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 4
+82.9454 13.49
+97.9561 42.61
+109.9559 100.0
+127.9664 38.02
+
+Name: SDM TP184
+Synon: SDM TP184
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 184.9879
+Formula: C4H6O2N2Cl2
+ExactMass: 183.98063
+RT: NA
+SMILES: O/C(C)=N/C(O)/N=C(Cl)/Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+82.9454 41.01
+127.9664 100.0
+152.9618 1.65
+
+Name: SDM TP218
+Synon: SDM TP218
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 218.9487
+Formula: C4H5O2N2Cl3
+ExactMass: 217.94166
+RT: NA
+SMILES: O/C(CCl)=N/C(O)/N=C(Cl)/Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 3
+58.0295 36.98
+97.9561 57.15
+154.9774 100.0
+
+Name: SDM TP247
+Synon: SDM TP247
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 247.1187
+Formula: C12H14O2N4
+ExactMass: 246.11168
+RT: NA
+SMILES: COC1=NC(OC)=NC(NC2=CC=C(N)C=C2)=C1
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 2
+108.0682 16.13
+232.0955 68.34
+
+Name: SDM TP281
+Synon: SDM TP281
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 281.0795
+Formula: C12H13O2N4Cl
+ExactMass: 280.0727
+RT: NA
+SMILES: COC1=NC(OC)=NC(NC2=CC=C(N)C=C2)=C1Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 2
+231.0877 38.82
+266.0565 48.03
+
+Name: SDM TP349
+Synon: SDM TP349
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 349.0016
+Formula: C12H11N4O2Cl3
+ExactMass: 347.99476
+RT: NA
+SMILES: COC1=NC(OC)=NC(NC2=CC=C(N)C(Cl)=C2Cl)=C1Cl
+Comment: "TP; http://dx.doi.org/10.1016/j.watres.2016.06.042; Helbling et al., 2016"
+Num Peaks: 4
+72.0448 0.43
+175.9904 0.25
+276.9569 15.79
+333.9781 5.14
+
+Name: Amoxicillin (AMX)
+Synon: Amoxicillin (AMX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 366.1116
+Formula: C16H19N3O5S
+ExactMass: 365.10454
+RT: 0.66
+SMILES: NA
+Comment: "Parent; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+160.0443 25.96
+305.0998 5.1
+349.0858 26.72
+
+Name: AMX TP384
+Synon: AMX TP384
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 384.1178
+Formula: C16H21N3O6S
+ExactMass: 383.11511
+RT: 0.66
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+160.0437 25.66
+323.1058 100.0
+367.096 42.72
+
+Name: Ampicillin (AMP)
+Synon: Ampicillin (AMP)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 350.1165
+Formula: C16H19N3O4S
+ExactMass: 349.10963
+RT: 2.7
+SMILES: NA
+Comment: "Parent; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+106.065 100.0
+160.0421 23.92
+174.0556 48.88
+
+Name: AMP TP368
+Synon: AMP TP368
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 368.1275
+Formula: C16H21N3O5S
+ExactMass: 367.12019
+RT: 1.85
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 6
+106.0645 6.71
+151.0883 2.85
+160.0421 16.28
+209.0922 20.27
+307.1096 21.12
+324.1377 100.0
+
+Name: AMP TP324
+Synon: AMP TP324
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 324.1381
+Formula: C15H21N3O3S
+ExactMass: 323.13036
+RT: 1.85
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+106.0641 23.61
+151.0871 21.8
+307.1118 42.54
+
+Name: AMP TP209
+Synon: AMP TP209
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 209.0924
+Formula: C10H12N2O3
+ExactMass: 208.08479
+RT: 0.6
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 5
+91.0544 16.5
+106.065 42.25
+118.0645 17.97
+146.0625 13.68
+192.0657 28.17
+
+Name: Penicillin (PEN)
+Synon: Penicillin (PEN)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 351.102
+Formula: C16H18N2O5S
+ExactMass: 350.09364
+RT: 5.8
+SMILES: NA
+Comment: "Parent; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+114.0369 6.07
+160.0424 100.0
+192.0665 8.56
+
+Name: PEN TP369
+Synon: PEN TP369
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 369.1114
+Formula: C16H20N2O6S
+ExactMass: 368.10421
+RT: 5.1
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+107.0483 16.24
+114.0352 21.11
+160.0425 28.61
+
+Name: PEN TP325
+Synon: PEN TP325
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 325.1227
+Formula: C15H20N2O4S
+ExactMass: 324.11438
+RT: 3.6
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 2
+174.0603 16.85
+279.1163 6.36
+
+Name: PEN TP210
+Synon: PEN TP210
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 210.0765
+Formula: C10H11NO4
+ExactMass: 209.06881
+RT: 2.8
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 2
+76.039 76.88
+107.048 100.0
+
+Name: Piperacilin (PIP)
+Synon: Piperacilin (PIP)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 518.1688
+Formula: C23H27N5O7S
+ExactMass: 517.16312
+RT: 4.9
+SMILES: NA
+Comment: "Parent; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 4
+143.0797 100.0
+160.0428 18.39
+274.1161 5.04
+302.1153 3.96
+
+Name: PIP TP536
+Synon: PIP TP536
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 536.182
+Formula: C23H29N5O8S
+ExactMass: 535.17368
+RT: 4.1
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 7
+143.08 90.91
+160.0428 42.88
+274.1136 4.53
+350.1159 100.0
+377.1436 21.12
+394.1043 78.56
+492.1888 15.85
+
+Name: PIP TP492
+Synon: PIP TP492
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 492.191
+Formula: C22H29N5O6S
+ExactMass: 491.18385
+RT: 3.9
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+143.0803 100.0
+174.0585 64.71
+350.1171 68.39
+
+Name: PIP TP377
+Synon: PIP TP377
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 377.1443
+Formula: C17H20N4O6
+ExactMass: 376.13828
+RT: 3.8
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 3
+143.0812 100.0
+192.0668 8.64
+274.1188 0.51
+
+Name: PIP TP143
+Synon: PIP TP143
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 143.0807
+Formula: C6H10N2O2
+ExactMass: 142.07423
+RT: 0.8
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.scitotenv.2018.09.248; Timm et al., 2019"
+Num Peaks: 2
+115.0495 28.03
+143.0807 100.0
+
+Name: Sulfamethoxazole (SMX)
+Synon: Sulfamethoxazole (SMX)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 254.0595
+Formula: C10H11N3O3S
+ExactMass: 253.05211
+RT: 5.821
+SMILES: NA
+Comment: "Parent; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 7
+65.044 20.51
+92.0548 56.17
+99.0011 8.94
+108.0501 100.0
+156.0188 21.14
+160.0949 10.18
+254.0715 5.3
+
+Name: SMX TP256
+Synon: SMX TP256
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 256.0749
+Formula: C10H13N3O3S
+ExactMass: 255.06776
+RT: 1.101
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 6
+65.0444 21.93
+92.0554 66.51
+101.0769 17.15
+108.0506 100.0
+156.0191 45.22
+256.0875 5.1
+
+Name: SMX TP216
+Synon: SMX TP216
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 216.0437
+Formula: C7H9O3N3S
+ExactMass: 215.03646
+RT: 1.2
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 6
+58.9991 4.07
+65.0429 84.11
+92.0543 82.15
+108.0499 100.0
+156.0185 44.6
+216.0419 2.36
+
+Name: SMX TP173
+Synon: SMX TP173
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 173.0385
+Formula: C6H8N2O2S
+ExactMass: 172.03065
+RT: 1.168
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 5
+65.0437 22.67
+92.0544 100.0
+108.0503 2.54
+156.022 1.01
+173.0468 60.45
+
+Name: SMX TP294
+Synon: SMX TP294
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 294.0555
+Formula: C12H13N3O4S
+ExactMass: 295.06268
+RT: 4.942
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 6
+63.9667 51.6
+82.0395 10.93
+92.0535 36.35
+156.0192 100.0
+252.0554 36.81
+294.0554 93.62
+
+Name: SMX TP156
+Synon: SMX TP156
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 156.0127
+Formula: C6H6NO2S
+ExactMass: 156.01192
+RT: 5.42
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 4
+63.9659 100.0
+92.0553 38.15
+108.0497 18.06
+156.0122 22.34
+
+Name: SMX TP93
+Synon: SMX TP93
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 93.0353
+Formula: C6H6O
+ExactMass: 94.04186
+RT: 18.607
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 2
+76.0717 99.34
+93.0419 100.0
+
+Name: SMX TP288
+Synon: SMX TP288
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 288.0649
+Formula: C10H13N3O5S
+ExactMass: 287.05759
+RT: 1.298
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.watres.2025.125118; Liu et al., 2026"
+Num Peaks: 5
+65.0434 22.89
+92.0542 61.57
+108.0503 100.0
+156.0192 76.23
+288.0713 15.43
+
+Name: Azithromycin (AZI)
+Synon: Azithromycin (AZI)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 749.5151
+Formula: C38H72N2O12
+ExactMass: 748.50853
+RT: 4.564
+SMILES: NA
+Comment: "Parent; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 4
+83.0497 11.26
+375.2565 87.83
+591.421 100.0
+749.5155 43.06
+
+Name: AZI TP767
+Synon: AZI TP767
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 767.5267
+Formula: C38H74N2O13
+ExactMass: 766.51909
+RT: 3.856
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 4
+83.0494 8.02
+384.2583 10.27
+609.4352 100.0
+767.5267 18.76
+
+Name: AZI TP452
+Synon: AZI TP452
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 452.3217
+Formula: C22H45NO8
+ExactMass: 451.31452
+RT: 2.655
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 7
+123.1191 6.49
+141.126 7.11
+159.1013 5.98
+256.1892 23.3
+274.2022 23.67
+292.2097 18.15
+452.3201 100.0
+
+Name: AZI TP610
+Synon: AZI TP610
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 610.4167
+Formula: C30H59NO11
+ExactMass: 609.40881
+RT: 4.35
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 4
+83.049 31.23
+434.3083 12.92
+452.3225 100.0
+610.4155 45.99
+
+Name: AZI TP450
+Synon: AZI TP450
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 450.3076
+Formula: C22H43NO8
+ExactMass: 449.29887
+RT: 2.822
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 6
+159.1003 34.03
+292.1958 28.87
+274.1989 27.66
+330.2167 31.17
+348.2616 30.03
+450.3132 100.0
+
+Name: AZI TP608
+Synon: AZI TP608
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 608.4003
+Formula: C30H57NO11
+ExactMass: 607.39316
+RT: 4.522
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 5
+83.0493 15.24
+292.1959 5.61
+432.2961 1.47
+450.307 100.0
+608.4063 97.24
+
+Name: AZI TP592
+Synon: AZI TP592
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 592.4054
+Formula: C30H57NO10
+ExactMass: 591.39825
+RT: 5.624
+SMILES: NA
+Comment: "TP; https://doi.org/10.1016/j.jhazmat.2018.01.055; Terzic et al., 2018"
+Num Peaks: 4
+83.0482 24.82
+416.3002 23.15
+434.3113 100.0
+592.4041 35.89
+
+Name: Azithromycin (AZI)
+Synon: Azithromycin (AZI)
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 749.51294
+Formula: C38H72N2O12
+ExactMass: 748.50853
+RT: 7.42
+SMILES: NA
+Comment: "Parent; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.3103 NA
+573.40997 NA
+434.3103 NA
+
+Name: AZI TP433
+Synon: AZI TP433
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 434.3101
+Formula: C22H43NO7
+ExactMass: 433.30395
+RT: 7.25
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 2
+300.2164 NA
+416.29987 NA
+
+Name: AZI TP576
+Synon: AZI TP576
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 577.40448
+Formula: C29H56N2O9
+ExactMass: 576.39858
+RT: 7.83
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+416.30054 NA
+434.3111 NA
+559.3949 NA
+
+Name: AZI TP577a
+Synon: AZI TP577a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 578.38879
+Formula: C29H55NO10
+ExactMass: 577.3826
+RT: 8.55
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+402.28427 NA
+420.29489 NA
+476.32092 NA
+
+Name: AZI TP577b
+Synon: AZI TP577b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 578.38843
+Formula: C29H55NO10
+ExactMass: 577.3826
+RT: 7.83
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+416.29965 NA
+434.31021 NA
+476.32056 NA
+
+Name: AZI TP590
+Synon: AZI TP590
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 591.41949
+Formula: C30H58N2O9
+ExactMass: 590.41423
+RT: 7.5
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 2
+434.30997 NA
+573.4093 NA
+
+Name: AZI TP591
+Synon: AZI TP591
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 592.40369
+Formula: C30H57NO10
+ExactMass: 591.39825
+RT: 8.69
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 1
+434.31012 NA
+
+Name: AZI TP719
+Synon: AZI TP719
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 720.45215
+Formula: C36H65NO13
+ExactMass: 719.44559
+RT: 9.19
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 2
+544.34778 NA
+562.35822 NA
+
+Name: AZI TP720a
+Synon: AZI TP720a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 721.48285
+Formula: C36H68N2O12
+ExactMass: 720.47723
+RT: 7.28
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.31058 NA
+563.3894 NA
+592.4043 NA
+
+Name: AZI TP720b
+Synon: AZI TP720b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 721.48297
+Formula: C36H68N2O12
+ExactMass: 720.47723
+RT: 7.03
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.31064 NA
+559.39459 NA
+577.40503 NA
+
+Name: AZI TP734a
+Synon: AZI TP734a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 735.49786
+Formula: C37H70N2O12
+ExactMass: 734.49288
+RT: 7.39
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.31146 NA
+559.39392 NA
+577.40601 NA
+
+Name: AZI TP734b
+Synon: AZI TP734b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 735.50043
+Formula: C37H70N2O12
+ExactMass: 734.49288
+RT: 7.03
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.31146 NA
+573.41132 NA
+591.42181 NA
+
+Name: AZI TP768
+Synon: AZI TP768
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 769.45966
+Formula: C37H69ClN2O12
+ExactMass: 768.4539
+RT: 9.94
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.3103 NA
+593.35535 NA
+611.36572 NA
+
+Name: AZI TP788
+Synon: AZI TP788
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 789.40497
+Formula: C36H66Cl2N2O12
+ExactMass: 788.39928
+RT: 10.32
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+434.3103 NA
+613.30078 NA
+631.31097 NA
+
+Name: Ciprofloxacin（CFC）
+Synon: Ciprofloxacin（CFC）
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 332.13959
+Formula: C17H18FN3O3
+ExactMass: 331.13322
+RT: 6.95
+SMILES: NA
+Comment: "Parent; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+245.10771 NA
+288.14984 NA
+314.12894 NA
+
+Name: CFC TP262
+Synon: CFC TP262
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 263.08173
+Formula: C13H11FN2O3
+ExactMass: 262.07537
+RT: 8.56
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 4
+204.03357 NA
+217.07776 NA
+222.04411 NA
+245.07124 NA
+
+Name: CFC TP290
+Synon: CFC TP290
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 291.07709
+Formula: C14H11FN2O4
+ExactMass: 290.07029
+RT: 8.36
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 2
+245.07155 NA
+273.06656 NA
+
+Name: CFC TP292
+Synon: CFC TP292
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 293.09308
+Formula: C14H13FN2O4
+ExactMass: 292.08594
+RT: 7.93
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+257.07272 NA
+263.08337 NA
+275.08246 NA
+
+Name: CFC TP296
+Synon: CFC TP296
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 297.04324
+Formula: C13H10ClFN2O3
+ExactMass: 296.0364
+RT: 9.44
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 5
+216.06984 NA
+237.99454 NA
+251.03871 NA
+256.00513 NA
+279.03275 NA
+
+Name: CFC TP305
+Synon: CFC TP305
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 306.12418
+Formula: C15H16FN3O3
+ExactMass: 305.11757
+RT: 6.73
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+263.08206 NA
+288.11371 NA
+289.0976 NA
+
+Name: CFC TP333
+Synon: CFC TP333
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 334.11938
+Formula: C16H16FN3O4
+ExactMass: 333.11248
+RT: 7.88
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 2
+288.11376 NA
+316.10892 NA
+
+Name: CFC TP339
+Synon: CFC TP339
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 340.08578
+Formula: C15H15ClFN3O3
+ExactMass: 339.0786
+RT: 7.03
+SMILES: NA
+Comment: "TP; https://dx.doi.org/10.1021/acs.est.0c00944; Jaén-Gil et al., 2020"
+Num Peaks: 3
+275.08255 NA
+297.0435 NA
+322.0752 NA
+
+Name: Sulfanilamide
+Synon: Sulfanilamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 173.03728
+Formula: C6H8N2O2S
+ExactMass: 172.03065
+RT: 1.53
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)N
+Comment: "Parent; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 5
+65.03899 18.58
+92.04879 23.03
+93.056713 100.0
+108.04537 8.98
+173.03741 15.17
+
+Name: Sulfanilic acid
+Synon: Sulfanilic acid
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 174.02148
+Formula: C6H7NO3S
+ExactMass: 173.01466
+RT: 1.799
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)O
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 4
+65.03739 11.84
+92.04881 18.56
+93.05617 100.0
+174.02007 18.22
+
+Name: 2,4-Diaminobenzenesulfonamide
+Synon: 2,4-Diaminobenzenesulfonamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 188.0484
+Formula: C6H9N3O2S
+ExactMass: 187.04155
+RT: 8.496
+SMILES: O=S(=O)(N)C1=CC=C(N)C=C1N
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 5
+65.03817 22.47
+92.04877 38.14
+93.05809 100.0
+108.0432 17.24
+188.03722 19.25
+
+Name: N4-Acetylsulfadiazine
+Synon: N4-Acetylsulfadiazine
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 293.0699
+Formula: C12H12N4O3S
+ExactMass: 292.06301
+RT: 13.334
+SMILES: CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=NC=CC=N2
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 3
+65.03985 43.54
+92.04885 86.25
+108.04543 100.0
+
+Name: 4-Amino-N,N-dimethylbenzenesulfonamide
+Synon: 4-Amino-N,N-dimethylbenzenesulfonamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 201.0697
+Formula: C8H12N2O2S
+ExactMass: 200.06195
+RT: 12.822
+SMILES: CN(C)S(=O)(=O)C1=CC=C(C=C1)N
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 3
+65.0383 42.15
+92.04898 100.0
+108.04452 34.89
+
+Name: Sulfameter
+Synon: Sulfameter
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 281.07019
+Formula: C11H12N4O3S
+ExactMass: 280.06301
+RT: 8.079
+SMILES: COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N
+Comment: "Parent; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03742 19.01
+92.04983 96.87
+108.04436 100.0
+126.06661 43.51
+156.01099 58.49
+281.07184 16.36
+
+Name: 4-Amino-N-(5-hydroxy-2-pyrimidinyl)benzenesulfonamide
+Synon: 4-Amino-N-(5-hydroxy-2-pyrimidinyl)benzenesulfonamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 267.05533
+Formula: C10H10N4O3S
+ExactMass: 266.04736
+RT: 3.845
+SMILES: O=S(=O)(NC1=NC=C(O)C=N1)C2=CC=C(N)C=C2
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03827 22.47
+92.04895 100.0
+108.04343 82.38
+112.05057 18.15
+156.01125 29.87
+267.05548 13.92
+
+Name: 4-Amino-N-(1,6-dihydro-5-methoxy-6-oxo-2-pyrimidinyl)benzenesulfonamide
+Synon: 4-Amino-N-(1,6-dihydro-5-methoxy-6-oxo-2-pyrimidinyl)benzenesulfonamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 297.0656
+Formula: C11H12N4O4S
+ExactMass: 296.05793
+RT: 14.132
+SMILES: O=C1NC(=NC=C1OC)NS(=O)(=O)C2=CC=C(N)C=C2
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03838 17.56
+92.04904 100.0
+108.04458 88.16
+142.06087 39.51
+156.01131 58.88
+297.06403 16.23
+
+Name: Sulfameter TP297
+Synon: Sulfameter TP297
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 297.065
+Formula: C11H12N4O4S
+ExactMass: 296.05793
+RT: 10.103
+SMILES: OC1=NC(NS(=O)(C2=CC=C(C=C2)N)=O)=NC=C1OC
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.0383 18.83
+92.04892 100.0
+108.04338 91.07
+142.04362 37.16
+156.01237 48.87
+297.04779 18.27
+
+Name: Sulfameter TP266
+Synon: Sulfameter TP266
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 266.0591
+Formula: C11H11N3O3S
+ExactMass: 265.05211
+RT: 2.305
+SMILES: COC1=CN=C(N=C1)S(=O)(C2=CC=C(C=C2)N)=O
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 7
+65.03908 16.12
+92.04888 100.0
+108.04332 76.76
+111.0663 93.58
+156.01102 43.01
+173.01192 18.19
+266.07184 22.57
+
+Name: Sulfachloropyridazine
+Synon: Sulfachloropyridazine
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 285.01944
+Formula: C10H9ClN4O2S
+ExactMass: 284.01347
+RT: 10.949
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)NC2=NN=C(C=C2)Cl
+Comment: "Parent; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03829 18.55
+92.04892 100.0
+108.04337 89.4
+130.0161 78.19
+156.00981 21.02
+285.01938 14.53
+
+Name: Sulfachloropyridazine TP270
+Synon: Sulfachloropyridazine TP270
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 270.0104
+Formula: C10H8ClN3O2S
+ExactMass: 269.00258
+RT: 1.683
+SMILES: NC1=CC=C(S(=O)(C2=NN=C(Cl)C=C2)=O)C=C1
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03743 12.76
+92.04985 63.14
+108.04438 57.89
+114.10263 100.0
+156.01102 39.99
+269.1069 15.7
+
+Name: Sulfachloropyridazine TP314
+Synon: Sulfachloropyridazine TP314
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 314.0222
+Formula: C11H10ClN4O3S
+ExactMass: 313.01621
+RT: 14.847
+SMILES: NC1=CC=C(S(=O)(NC2=NN=C(Cl)C(OC)=C2)=O)C=C1
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03814 13.58
+92.04875 99.58
+108.0432 100.0
+156.00964 25.56
+160.02765 18.69
+315.03168 1.57
+
+Name: Sulfadinmethoxine
+Synon: Sulfadinmethoxine
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 311.0804
+Formula: C12H14N4O4S
+ExactMass: 310.07358
+RT: 12.63
+SMILES: COC1=NC(=NC(=C1)NS(=O)(=O)C2=CC=C(C=C2)N)OC
+Comment: "Parent; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 5
+65.03744 15.68
+92.04888 92.16
+108.04333 100.0
+156.01102 34.89
+311.07892 18.17
+
+Name: 4-[(2,6-Dimethoxy-4-pyrimidinyl)sulfonyl]benzenamine
+Synon: 4-[(2,6-Dimethoxy-4-pyrimidinyl)sulfonyl]benzenamine
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 296.0692
+Formula: C12H13N3O4S
+ExactMass: 295.06268
+RT: 8.633
+SMILES: O=S(=O)(C=1N=C(N=C(OC)C1)OC)C2=CC=C(N)C=C2
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.03825 18.38
+92.04886 82.23
+108.0433 100.0
+140.08112 63.87
+156.01099 21.43
+295.08258 19.92
+
+Name: N-(2,6-Dimethoxy-4-pyrimidinyl)-4-(methylamino)benzenesulfonamide
+Synon: N-(2,6-Dimethoxy-4-pyrimidinyl)-4-(methylamino)benzenesulfonamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 325.09567
+Formula: C13H16N4O4S
+ExactMass: 324.08923
+RT: 15.568
+SMILES: O=S(=O)(NC=1N=C(N=C(OC)C1)OC)C2=CC=C(C=C2)NC
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 5
+79.05405 10.05
+106.06437 63.12
+122.05961 100.0
+170.02724 8.16
+325.09537 5.56
+
+Name: Sulfadinmethoxine TP295a
+Synon: Sulfadinmethoxine TP295a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 295.08633
+Formula: C12H14N4O3S
+ExactMass: 294.07866
+RT: 12.804
+SMILES: O=S(NC1=CC=NC(OC)=N1)(C2=CC=C(NC)C=C2)=O
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 5
+79.05334 16.2
+106.06458 61.07
+122.05984 100.0
+170.02615 18.2
+295.0864 5.14
+
+Name: Sulfadinmethoxine TP295b
+Synon: Sulfadinmethoxine TP295b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 295.08649
+Formula: C12H14N4O3S
+ExactMass: 294.07866
+RT: 12.546
+SMILES: O=S(NC1=CC(OC)=NC=N1)(C2=CC=C(NC)C=C2)=O
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+79.0549 16.88
+106.06429 83.19
+122.05953 100.0
+170.02711 22.73
+188.01198 15.85
+295.08768 13.67
+
+Name: Sulfadinmethoxine TP281
+Synon: Sulfadinmethoxine TP281
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 281.07166
+Formula: C11H12N4O3S
+ExactMass: 280.06301
+RT: 7.632
+SMILES: O=S(NC(N1)=CC=NC1=O)(C2=CC=C(NC)C=C2)=O
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+79.05399 23.54
+92.04867 18.72
+106.06426 82.37
+122.05947 100.0
+170.02832 28.17
+215.09077 15.73
+
+Name: Sulfamonomethoxine
+Synon: Sulfamonomethoxine
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 281.07025
+Formula: C11H12N4O3S
+ExactMass: 280.06301
+RT: 5.199
+SMILES: O=S(=O)(NC=1N=CN=C(OC)C1)C2=CC=C(N)C=C2
+Comment: "Parent; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 7
+65.03832 34.39
+92.04896 83.71
+108.04448 76.92
+126.06561 100.0
+156.01115 46.89
+188.01237 16.92
+281.07217 20.88
+
+Name: N4-Acetylsulfadimethoxine
+Synon: N4-Acetylsulfadimethoxine
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 353.08969
+Formula: C14H16N4O5S
+ExactMass: 352.08414
+RT: 12.724
+SMILES: CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=CC(=NC(=N2)OC)OC
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 7
+65.03811 22.06
+92.04969 16.45
+93.03244 37.98
+108.04422 82.29
+154.06027 91.58
+198.02145 33.89
+353.08936 31.93
+
+Name: N-[4-[[(1,2-Dihydro-6-methoxy-2-oxo-4-pyrimidinyl)amino]sulfonyl]phenyl]acetamide
+Synon: N-[4-[[(1,2-Dihydro-6-methoxy-2-oxo-4-pyrimidinyl)amino]sulfonyl]phenyl]acetamide
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 339.0751
+Formula: C13H14N4O5S
+ExactMass: 338.06849
+RT: 12.202
+SMILES: O=CNC1=CC=C(C=C1)S(=O)(=O)NC=2N=C(N=C(OC)C2)OC
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+65.0383 18.91
+108.04444 19.5
+120.04426 43.72
+154.0605 100.0
+184.00642 19.87
+339.07489 24.51
+
+Name: Sulfamonomethoxine TP323a
+Synon: Sulfamonomethoxine TP323a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 323.08212
+Formula: C13H14N4O4S
+ExactMass: 322.07358
+RT: 8.487
+SMILES: O=CNC1=CC=C(S(=O)(C2=CC(OC)=NC(OC)=N2)=O)C=C1
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 7
+65.03822 19.12
+93.03358 21.34
+120.04423 26.53
+138.06647 100.0
+184.00648 28.89
+257.10287 16.93
+323.08029 39.0
+
+Name: Sulfamonomethoxine TP323b
+Synon: Sulfamonomethoxine TP323b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 323.08014
+Formula: C13H14N4O4S
+ExactMass: 322.07358
+RT: 8.628
+SMILES: O=CNC1=CC=C(C=C1)S(=O)(NC2=CC(C)=NC(OC)=N2)=O
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 7
+65.0383 19.18
+93.03267 24.97
+120.53902 45.23
+138.06531 100.0
+184.0051 27.85
+257.10278 17.02
+323.07825 21.42
+
+Name: Nalidixic acid
+Synon: Nalidixic acid
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 233.0922
+Formula: C12H12N2O3
+ExactMass: 232.08479
+RT: 1.606
+SMILES: CCN1C=C(C(=O)C2=C1N=C(C=C2)C)C(=O)O
+Comment: "Parent; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 6
+77.03902 9.12
+92.05073 6.43
+104.05074 19.98
+131.05952 21.4
+159.05695 100.0
+233.10458 23.29
+
+Name: 1,4-Dihydro-1,7-dimethyl-4-oxo-1,8-naphthyridine-3-carboxylic acid
+Synon: 1,4-Dihydro-1,7-dimethyl-4-oxo-1,8-naphthyridine-3-carboxylic acid
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 219.0762
+Formula: C11H10N2O3
+ExactMass: 218.06914
+RT: 5.789
+SMILES: O=C(O)C1=CN(C2=NC(=CC=C2C1=O)C)C
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 5
+90.03421 29.99
+117.04752 41.5
+120.96076 29.81
+145.04065 100.0
+163.09065 19.21
+
+Name: 1-Ethyl-1,4-dihydro-7-methyl-4-oxo-1,8-naphthyridine-3-carboxaldehyde
+Synon: 1-Ethyl-1,4-dihydro-7-methyl-4-oxo-1,8-naphthyridine-3-carboxaldehyde
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 217.0973
+Formula: C12H12N2O2
+ExactMass: 216.08988
+RT: 9.351
+SMILES: O=CC1=CN(C2=NC(=CC=C2C1=O)C)CC
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 4
+104.04984 72.91
+131.05968 78.28
+159.05455 62.48
+217.10913 100.0
+
+Name: 1-Ethyl-7-methyl-3-(6-nitro-1H-benzimidazol-2-yl)-1,8-naphthyridin-4(1H)-one
+Synon: 1-Ethyl-7-methyl-3-(6-nitro-1H-benzimidazol-2-yl)-1,8-naphthyridin-4(1H)-one
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 350.126
+Formula: C18H15N5O3
+ExactMass: 349.11749
+RT: 14.893
+SMILES: O=C1C2=CC=C(N=C2N(C=C1C3=NC=4C=CC(=CC4N3)N(=O)=O)CC)C
+Comment: "TP; https://doi.org/10.1021/acs.est.2c07774; Yu et al., 2023"
+Num Peaks: 2
+131.05038 28.94
+159.04434 100.0
+
+Name: SA TP174
+Synon: SA TP174
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 174.1024
+Formula: C10H11N3
+ExactMass: 173.0953
+RT: 9.38
+SMILES: CC=1C=C(N(N1)C2=CC=CC=C2)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 5
+131.061 NA
+159.0799 NA
+130.0529 NA
+145.0405 NA
+118.0528 NA
+
+Name: SA TP279
+Synon: SA TP279
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 279.0912
+Formula: C12H14N4O2S
+ExactMass: 278.08375
+RT: 8.59
+SMILES: CC1=CC(=NC(=N1)C)NS(=O)(=O)C2=CC=C(C=C2)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 3
+186.032 NA
+156.0122 NA
+124.0875 NA
+
+Name: SA TP110
+Synon: SA TP110
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 110.0709
+Formula: C5H7N3
+ExactMass: 109.064
+RT: 7.8
+SMILES: CC1=CC=NC(=N1)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+80.0537 NA
+93.04472 NA
+68.05002 NA
+66.03443 NA
+
+Name: SA TP217
+Synon: SA TP217
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 217.1085
+Formula: C11H12N4O
+ExactMass: 216.10111
+RT: 5.54
+SMILES: CC1=NC(O)=CC(N1C2=CC=C(C=C2)N)=N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 5
+185.082 NA
+108.0676 NA
+80.0486 NA
+92.0489 NA
+131.0598 NA
+
+Name: SA TP281a
+Synon: SA TP281a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 281.0713
+Formula: C11H12N4O3S
+ExactMass: 280.06301
+RT: 9.26
+SMILES: CC1=NC(=CC(=N1)O)NS(=O)(=O)C2=CC=C(C=C2)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 5
+188.031 NA
+156.0108 NA
+126.065 NA
+108.0446 NA
+158.006 NA
+
+Name: SA TP295a
+Synon: SA TP295a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 295.0861
+Formula: C12H14N4O3S
+ExactMass: 294.07866
+RT: 7.56
+SMILES: CC1=CC(=NC(=N1)C)NS(=O)(=O)C=2C3C(C(=CC2)N)O3
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+172.01 NA
+124.09 NA
+186.03 NA
+108.04 NA
+
+Name: SA TP295b
+Synon: SA TP295b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 295.0862
+Formula: C12H14N4O3S
+ExactMass: 294.07866
+RT: 7.92
+SMILES: CC1=CC(=NC(=N1)CO)NS(=O)(=O)C2=CC=C(C=C2)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+92.05 NA
+108.04 NA
+202.03 NA
+156.01 NA
+
+Name: SA TP297
+Synon: SA TP297
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 297.0661
+Formula: C11H12N4O4S
+ExactMass: 296.05793
+RT: 8.02
+SMILES: COC1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C(=C2)O)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+188.01 NA
+126.07 NA
+172.01 NA
+108.04 NA
+
+Name: SA TP317
+Synon: SA TP317
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 317.0713
+Formula: C14H12N4O3S
+ExactMass: 316.06301
+RT: 11.28
+SMILES: C1=C(C=C2C(=C1)N/C(=N/S(=O)(=O)C3=CC=C(C=C3)N)/C=N2)O
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+92.05 NA
+208.08 NA
+236.08 NA
+300.0388 NA
+
+
+Name: SA TP323a
+Synon: SA TP323a
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 323.0823
+Formula: C13H14N4O4S
+ExactMass: 322.07358
+RT: 8.92
+SMILES: O=S(NC(N=C1)=NC=C1OC)(C2=CC=C(NC(C)=O)C=C2)=O
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 5
+126.066 NA
+198.0212 NA
+188.0128 NA
+108.433 NA
+65.0383 NA
+
+Name: SA TP249a
+Synon: SA TP249a
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 249.0452
+Formula: C10H10N4O2S
+ExactMass: 250.05245
+RT: 6.89
+SMILES: NC1=CC=C(S(=O)(NC2=NN=CC=C2)=O)C=C1
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 2
+185.083 NA
+92.0246 NA
+
+Name: SA TP124
+Synon: SA TP124
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 124.0867
+Formula: C6H9N3
+ExactMass: 123.07965
+RT: 2.2
+SMILES: CC1=CC(=NC(=N1)N)C
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 3
+107.06 NA
+82.0647 NA
+66.03457 NA
+
+Name: SA TP267
+Synon: SA TP267
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 267.0551
+Formula: C10H10N4O3S
+ExactMass: 266.04736
+RT: 5.3
+SMILES: O=C1N=C(NS(=O)(C2=CC=C(N)C=C2)=O)C=CN1
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+156.012 NA
+108.0443 NA
+112.0503 NA
+92.0489 NA
+
+Name: SA TP281b
+Synon: SA TP281b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 281.0713
+Formula: C11H12N4O3S
+ExactMass: 280.06301
+RT: 7.05
+SMILES: C(C1=CN=C(N=C1)NS(=O)(=O)C2=CC=C(C=C2)N)O
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+156.01 NA
+126.07 NA
+108.0442 NA
+188.01 NA
+
+Name: SA TP295c
+Synon: SA TP295c
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 295.0869
+Formula: C12H14N4O3S
+ExactMass: 294.07866
+RT: 12.33
+SMILES: CC1=CC(NS(=O)(C2=CC=C(N)C(O)=C2)=O)=NC(C)=N1
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+77.04 NA
+201.05 NA
+217.04 NA
+173.05 NA
+
+Name: SA TP319
+Synon: SA TP319
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 319.0864
+Formula: C14H16N4O3S
+ExactMass: 320.09431
+RT: 8.38
+SMILES: CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)NC(C)=O)C
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 5
+134.062 NA
+106.0409 NA
+239.1034 NA
+255.1252 NA
+164.083 NA
+
+Name: SA TP301
+Synon: SA TP301
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 301.0761
+Formula: C14H12N4O2S
+ExactMass: 300.0681
+RT: 11.2
+SMILES: C1=CC=C2C(=C1)N/C(=N/S(=O)(=O)C3=CC=C(C=C3)N)/C=N2
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+156.011 NA
+208.0117 NA
+146.0705 NA
+108.0443 NA
+
+Name: SA TP264
+Synon: SA TP264
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 264.0801
+Formula: C12H13N3O2S
+ExactMass: 263.07285
+RT: 10.67
+SMILES: CC1=CC(C)=NC(NS(=O)(C2=CC=CC=C2)=O)=N1
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 3
+77.0387 NA
+141.0002 NA
+123.0793 NA
+
+Name: SA TP323b
+Synon: SA TP323b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 323.0837
+Formula: C13H14N4O4S
+ExactMass: 322.07358
+RT: 8.91
+SMILES: COC1=CC(NS(C2=CC=C(C=C2)NC(C)=O)(=O)=O)=NC=N1
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+198.02 NA
+126.07 NA
+198.02 NA
+134.06 NA
+
+Name: SA TP185
+Synon: SA TP185
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 185.0353
+Formula: C7H10N2O2S
+ExactMass: 186.0463
+RT: 8.81
+SMILES: C1=CC(=CC=C1CN)S(=O)(=O)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 2
+187.054 NA
+106.0608 NA
+
+Name: SA TP321a
+Synon: SA TP321a
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 321.0671
+Formula: C13H14N4O4S
+ExactMass: 322.07358
+RT: 8.92
+SMILES: CC(=O)N(C1=NC=CN=C1OC)S(=O)(=O)C2=CC=C(C=C2)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+186.03 NA
+134.06 NA
+198.02 NA
+255.12 NA
+
+Name: SA TP249b
+Synon: SA TP249b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 249.0692
+Formula: C12H12N2O2S
+ExactMass: 248.06195
+RT: 9.57
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)C2=CC=C(C=C2)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 3
+92.0495 NA
+65.0386 NA
+204.0478 NA
+
+Name: SA TP326
+Synon: SA TP326
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 326.0286
+Formula: C12H13N3O4S2
+ExactMass: 327.03475
+RT: 9.24
+SMILES: C1=CC(=CC=C1N)S(=O)(=O)NC2=CC=C(C=C2)S(=O)(=O)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 2
+326.028 NA
+328.0254 NA
+
+Name: SA TP307
+Synon: SA TP307
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 307.0852
+Formula: C13H14N4O3S
+ExactMass: 306.07866
+RT: 7.76
+SMILES: CC1=CC(=NC(=N1)C)NS(=O)(=O)C2=CC=C(C=C2)NC=O
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 2
+120.044 NA
+184.0063 NA
+
+Name: SA TP293
+Synon: SA TP293
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 293.0697
+Formula: C12H12N4O3S
+ExactMass: 292.06301
+RT: 6.31
+SMILES: CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=NC=CC=N2
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+198.02 NA
+134.06 NA
+227.09 NA
+136.07 NA
+
+Name: SA TP321b
+Synon: SA TP321b
+Precursor_type: [M+H]
+Spectrum_type: MS2
+PrecursorMZ: 321.1017
+Formula: C14H16N4O3S
+ExactMass: 320.09431
+RT: 8.39
+SMILES: CC1=CC(=NC(=N1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C)C
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+134.06 NA
+204.04 NA
+124.09 NA
+255.12 NA
+
+Name: SA TP294
+Synon: SA TP294
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 294.0554
+Formula: C12H13N3O4S
+ExactMass: 295.06268
+RT: 7.6
+SMILES: CC1=CC(=NO1)NS(=O)(=O)C2=CC=C(C=C2)NC(=O)C
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 3
+252.04 NA
+230.08 NA
+79.96 NA
+
+Name: SA TP213
+Synon: SA TP213
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 213.0388
+Formula: C8H10N2O3S
+ExactMass: 214.04121
+RT: 6.29
+SMILES: CC(=O)NC1=CC=C(C=C1)S(=O)(=O)N
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 4
+149.07 NA
+134.06 NA
+77.97 NA
+171.02 NA
+
+Name: SA TP296
+Synon: SA TP296
+Precursor_type: [M-H]
+Spectrum_type: MS2
+PrecursorMZ: 296.0175
+Formula: C11H11N3O2S2
+ExactMass: 281.02927
+RT: 8.06
+SMILES: CC(=O)NC1=CC=C(C=C1)S(=O)(=O)NC2=NC=CS2
+Comment: "TP; https://doi.org/10.1021/acs.est.5c06191; Huang et al., 2025"
+Num Peaks: 2
+134.06 NA
+186.99 NA
+
